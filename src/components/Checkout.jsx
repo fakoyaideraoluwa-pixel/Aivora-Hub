@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./Checkout.css";
 
-import PaymentModal from "../Components/PaymentModal";
-import SuccessModal from "../Components/SuccessModal";
+import PaymentModal from "./PaymentModal";
+import SuccessModal from "./SuccessModal";
 
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../Context/AuthContext";
