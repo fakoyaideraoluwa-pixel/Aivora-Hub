@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import PaymentModal from "../Components/PaymentModal";
-import SuccessModal from "../Components/SuccessModal";
+import PaymentModal from "./PaymentModal";
+import SuccessModal from "./SuccessModal";
 
 function CartPage({ cart, setCart }) {
   const [showPayment, setShowPayment] = useState(false);

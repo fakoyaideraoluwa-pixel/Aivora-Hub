@@ -2,8 +2,8 @@ import React, { useEffect, useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../Context/AuthContext";
 import "./Fcart.css";
-import PaymentModal from "../Components/PaymentModal";
-import SuccessModal from "../Components/SuccessModal";
+import SuccessModal from "./SuccessModal";
+import PaymentModal from "./PaymentModal";
 
 const Fcart = () => {
   const navigate = useNavigate();

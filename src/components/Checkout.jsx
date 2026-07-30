@@ -7,7 +7,7 @@ import SuccessModal from "./SuccessModal";
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../Context/AuthContext";
 import { useContext } from "react";
-import { WalletContext } from "../components/WalletContext";
+import { WalletContext } from "./WalletContext";
 
 const Checkout = () => {
 
