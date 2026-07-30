@@ -59,7 +59,12 @@ const Profile = () => {
 
             <p>{user?.email}</p>
 
-           
+            <button
+              className="edit"
+              onClick={() => navigate("/editprofile")}
+            >
+              Edit Profile
+            </button>
           </div>
         </div>
       </div>
