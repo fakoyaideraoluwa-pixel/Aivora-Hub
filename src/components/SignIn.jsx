@@ -52,7 +52,7 @@ const SignUp = () => {
       name: values.name.trim().toUpperCase(),
       email: values.email.trim().toLowerCase(),
       password: values.password,
-      wallet: 10000,
+      wallet: 0,
     };
 
     users.push(newUser);
