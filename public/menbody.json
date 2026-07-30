@@ -1,0 +1,324 @@
+{
+    "bodyspraym":[
+  {
+    "id": 1,
+    "name": "Ocean Fresh Body Spray",
+    "price": 8500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray1.jpg",
+    "description": "Refreshing ocean-inspired body spray with long-lasting freshness."
+  },
+  {
+    "id": 2,
+    "name": "Classic Musk Body Spray",
+    "price": 9200,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray2.jpg",
+    "description": "Warm musk fragrance suitable for everyday wear."
+  },
+  {
+    "id": 3,
+    "name": "Fresh Citrus Body Spray",
+    "price": 8900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray3.jpg",
+    "description": "Bright citrus scent that keeps you feeling fresh all day."
+  },
+  {
+    "id": 4,
+    "name": "Sport Active Body Spray",
+    "price": 9800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray4.jpg",
+    "description": "Designed for active lifestyles with long-lasting odor protection."
+  },
+  {
+    "id": 5,
+    "name": "Woody Cedar Body Spray",
+    "price": 10200,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray5.jpg",
+    "description": "Sophisticated cedarwood fragrance with a masculine finish."
+  },
+  {
+    "id": 6,
+    "name": "Midnight Black Body Spray",
+    "price": 10800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray6.jpg",
+    "description": "Bold evening fragrance with deep aromatic notes."
+  },
+  {
+    "id": 7,
+    "name": "Cool Breeze Body Spray",
+    "price": 8700,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray7.jpg",
+    "description": "Light and refreshing scent inspired by cool ocean breezes."
+  },
+  {
+    "id": 8,
+    "name": "Urban Style Body Spray",
+    "price": 9900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray8.jpg",
+    "description": "Modern fragrance for everyday confidence."
+  },
+  {
+    "id": 9,
+    "name": "Fresh Energy Body Spray",
+    "price": 9400,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray9.jpg",
+    "description": "Invigorating fragrance with fresh herbal notes."
+  },
+  {
+    "id": 10,
+    "name": "Ice Cool Body Spray",
+    "price": 9300,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray10.jpg",
+    "description": "Cooling body spray that delivers a crisp, refreshing scent."
+  },
+  {
+    "id": 11,
+    "name": "Royal Oud Body Spray",
+    "price": 12500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray11.jpg",
+    "description": "Elegant oud fragrance with rich woody notes."
+  },
+  {
+    "id": 12,
+    "name": "Power Rush Body Spray",
+    "price": 9600,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray12.jpg",
+    "description": "Energetic fragrance perfect for busy days."
+  },
+  {
+    "id": 13,
+    "name": "Silver Mist Body Spray",
+    "price": 10100,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray13.jpg",
+    "description": "Fresh aromatic scent with a clean finish."
+  },
+  {
+    "id": 14,
+    "name": "Forest Pine Body Spray",
+    "price": 9800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray14.jpg",
+    "description": "Nature-inspired pine fragrance with earthy freshness."
+  },
+  {
+    "id": 15,
+    "name": "Dynamic Sport Body Spray",
+    "price": 9900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray15.jpg",
+    "description": "Long-lasting sporty fragrance for active men."
+  },
+  {
+    "id": 16,
+    "name": "Fresh Aqua Body Spray",
+    "price": 8900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray16.jpg",
+    "description": "Refreshing aquatic fragrance with crisp notes."
+  },
+  {
+    "id": 17,
+    "name": "Bold Leather Body Spray",
+    "price": 11500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray17.jpg",
+    "description": "Leather-inspired fragrance with a bold masculine character."
+  },
+  {
+    "id": 18,
+    "name": "Citrus Burst Body Spray",
+    "price": 9100,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray18.jpg",
+    "description": "Fresh citrus blend with uplifting energy."
+  },
+  {
+    "id": 19,
+    "name": "Signature Scent Body Spray",
+    "price": 11200,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray19.jpg",
+    "description": "Distinctive everyday fragrance with lasting freshness."
+  },
+  {
+    "id": 20,
+    "name": "Extreme Fresh Body Spray",
+    "price": 9800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray20.jpg",
+    "description": "Provides an extra burst of freshness throughout the day."
+  },
+  {
+    "id": 21,
+    "name": "Arctic Freeze Body Spray",
+    "price": 9500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray21.jpg",
+    "description": "Cool minty fragrance with an icy refreshing sensation."
+  },
+  {
+    "id": 22,
+    "name": "Black Storm Body Spray",
+    "price": 11800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray22.jpg",
+    "description": "Intense masculine fragrance with spicy woody notes."
+  },
+  {
+    "id": 23,
+    "name": "Executive Fresh Body Spray",
+    "price": 12400,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray23.jpg",
+    "description": "Professional fragrance suitable for work and formal occasions."
+  },
+  {
+    "id": 24,
+    "name": "Mountain Air Body Spray",
+    "price": 9300,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray24.jpg",
+    "description": "Clean mountain-inspired scent with lasting freshness."
+  },
+  {
+    "id": 25,
+    "name": "Premium Fresh Collection Body Spray",
+    "price": 13500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray25.jpg",
+    "description": "Premium body spray offering a refined masculine fragrance and all-day freshness."
+  },
+  {
+    "id": 26,
+    "name": "Fresh Marine Body Spray",
+    "price": 9800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray26.jpg",
+    "description": "Marine-inspired fragrance with refreshing aquatic notes."
+  },
+  {
+    "id": 27,
+    "name": "Bold Titanium Body Spray",
+    "price": 11800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray27.jpg",
+    "description": "Powerful masculine fragrance with long-lasting freshness."
+  },
+  {
+    "id": 28,
+    "name": "Fresh Mint Body Spray",
+    "price": 8900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray28.jpg",
+    "description": "Cooling mint fragrance that keeps you refreshed throughout the day."
+  },
+  {
+    "id": 29,
+    "name": "Elite Sport Body Spray",
+    "price": 10900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray29.jpg",
+    "description": "Designed for active lifestyles with a crisp sporty fragrance."
+  },
+  {
+    "id": 30,
+    "name": "Amber Woods Body Spray",
+    "price": 12500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray30.jpg",
+    "description": "Warm amber and woody notes for an elegant masculine scent."
+  },
+  {
+    "id": 31,
+    "name": "Fresh Lime Body Spray",
+    "price": 9200,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray31.jpg",
+    "description": "Bright lime fragrance with energizing freshness."
+  },
+  {
+    "id": 32,
+    "name": "Royal Blue Body Spray",
+    "price": 12800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray32.jpg",
+    "description": "Sophisticated fragrance crafted for modern gentlemen."
+  },
+  {
+    "id": 33,
+    "name": "Fresh Herbal Body Spray",
+    "price": 9600,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray33.jpg",
+    "description": "Refreshing herbal scent with natural aromatic notes."
+  },
+  {
+    "id": 34,
+    "name": "Black Ice Body Spray",
+    "price": 11200,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray34.jpg",
+    "description": "Cool, bold fragrance with icy freshness."
+  },
+  {
+    "id": 35,
+    "name": "Luxury Oud Body Spray",
+    "price": 13800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray35.jpg",
+    "description": "Premium oud fragrance with rich woody accords."
+  },
+  {
+    "id": 36,
+    "name": "Power Drive Body Spray",
+    "price": 10400,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray36.jpg",
+    "description": "Energetic scent created for confidence and performance."
+  },
+  {
+    "id": 37,
+    "name": "Fresh Forest Body Spray",
+    "price": 9700,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray37.jpg",
+    "description": "Woodland-inspired fragrance with earthy freshness."
+  },
+  {
+    "id": 38,
+    "name": "Urban Night Body Spray",
+    "price": 11900,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray38.jpg",
+    "description": "Modern evening fragrance with refined masculine notes."
+  },
+  {
+    "id": 39,
+    "name": "Fresh Lavender Body Spray",
+    "price": 9500,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray39.jpg",
+    "description": "Relaxing lavender fragrance blended with fresh aromatic notes."
+  },
+  {
+    "id": 40,
+    "name": "Victory Sport Body Spray",
+    "price": 10800,
+    "category": "Men's Body Sprays",
+    "image": "mens-bodyspray40.jpg",
+    "description": "Sport-inspired fragrance with long-lasting freshness."
+  }
+]
+}

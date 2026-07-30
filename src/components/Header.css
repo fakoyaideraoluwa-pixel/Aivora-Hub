@@ -1,0 +1,93 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 15px 40px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  font-family: 'Poppins', sans-serif;
+  /* border: 12px solid rgb(194, 20, 20); */
+}
+
+.logo h2 {
+  color: #0088cc;
+  margin: 0;
+  cursor: pointer;
+}
+.navbar{
+  /* border: 2px solid black; */
+  border-radius: 11px;
+  height: 70px;
+}
+.nav {
+  display: flex;
+  gap: 25px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #0088cc;
+}
+
+.cart-btn {
+  background-color: #0088cc;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+.btn a{
+text-decoration: none;
+color: red;
+}
+
+
+.cart-btn:hover {
+  background-color: #006fa3;
+}
+
+/* Hamburger menu (hidden on large screens) */
+.menu {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 5px;
+  color: #333;
+}
+
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    flex-direction: column;
+    background-color: white;
+    width: 200px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .nav.active {
+    display: flex;
+  }
+
+  .menu {
+    display: flex;
+  }
+}

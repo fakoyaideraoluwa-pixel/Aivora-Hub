@@ -1,0 +1,61 @@
+{
+    "fashions":[
+
+   {
+    "id": 1,
+    "name": "Shoulder Bag",
+    "category": "Bags",
+    "brand": "Zara",
+    "price": 59.99,
+    "color": "Black",
+    "size": ["Medium"],
+    "stock": 25,
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQcBBgIDCAT/xAA5EAABAwMCBAEIBwkAAAAAAAABAAIDBAURBhIHITFBURMUImFxgZHBFRcyYrHR0iM0NWNykpOiwv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABEhH/2gAMAwEAAhEDEQA/ALxREQEREBERAREQEREBERARFE6qur7JYKu4QsZJLEAI2Pzguc4NGcesoJZFUn1laiJ/crYB/TJ+pZHEjUZPKjtf9sn6lc0W0iqccSb+PtUNtPsEg+a6HcR9TOc9zIrWxu7AaYXux077wmaLfRVFFxL1GGEOo7ZI4OI3Br2j4bis/WXqQczb7bj2SfqTNFuIqkPEzUWP4dbf9/zUvo/Xd1vGoILdcaKkiilY8h8O7O5oyOpPYFOUWIiIoC0jjDWij0bIQ9okfUwhrSebsPBOPcMrdnEAEk4A6lVTxAjbcuHNfqKp9Oaskp30uekNOZmbGt8Nww53iT1w1uArYXnI5rl9LZ6KALSCmSO62ieNzce66W3FwLsO6uyofeVyjfy5+KCahuWA7J6uJXP6V9a18vO44KwXFBOvu/rU9w6uDptdWZm44dLIDz/lPPyWh8ypzRNvN01VbqAVMlM+dzwyeI4dG9sbnNcPY5oKD1IigNGXme8WpzbgxsdzopXUtdG0YAlZ1I+64YcPUVPrCo/UL3ssFyfFnyjaSUtx47DhaFr3b9SlN5D7Hm1Btx4bo8Kypo2yxPjkGWPaWuHiCqxukbpuEd5ssoJqrGPISNPXbC5r43ewxhp+KClm+m0Hv3CFqw3I9ILsBa7ocHwW0dRYupzJQeW3HI88r6+XtXzneejygw1juW7GcZ5LltWYw7uS4+K54QdW1bVwsaXcRLLgcmvlcf8ADJ+a1o4C3Lg3B5bX9K8DIgp5pT6uQb/0pRbFtxScULzTxDDKy2U9U8Dpva98efgB8Ft60/Tbxc9dakuseHU9M2G2xPHdzMvkHuc8D3LcFlRatqez1DKt94tcHnD5YPN7hQggeeQc/s55CRuTjPUEjwxtKIPJdVTiirZqQPc4RPLWuewscWjpuaQC12Oo7HK4bWr0rqvRln1RCRXQbKkD9nVxACRvv7j1FVHeuFOorc5xomsuUI6PhIY/HrY4/gStSjRHNGOZWGDA5KVq9MXqmJE9ruDCPGkk+QUJUUtzgdt8xrBjxp3j5Ko7dwaSD1QyLNHbbjU9KOrLj2FM8n8FN0GiNQV7mins9wfnvJCYW/F+AoIBzwe6sXhZDW09PXfQrBJe68NhbI5uY7fCOZkkPiSfRZ1O0dlO6S4QCKaOr1JIxzWncKKA5BP339/YPirVoqOmoKdtPRU8UELekcTA1o9wUtV8mnbNT2Cz09tpC5zIm+lI85dK883Pce5JJJ9qkkRQEREBERAREQEREBERAREQf//Z"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Black Jeans",
+    "category": "Jeans",
+    "brand": "Denim Co",
+    "price":49.99,
+    "size": ["30", "32", "34", "36"],
+    "color": "Black",
+    "material": "Denim",
+    "stock": 28,
+    "image": "https://example.com/images/black-jeans.jpg"
+  },
+
+
+   {
+    "id": 3,
+    "name": "Premium Leather Wallet Set",
+    "price": 38500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories76.jpg",
+    "description": "Luxury leather wallet set including a matching key holder and gift box."
+  },
+
+   {
+    "id": 4,
+    "name": "Executive Dress Shoes",
+    "category": "Shoes",
+    "brand": "Allen Edmonds",
+    "price": 349.99,
+    "color": "Black",
+    "size": [40, 41, 42, 43, 44],
+    "stock": 8,
+    "image": "https://example.com/images/executive-dress-shoes.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hybrid Analog Smartwatch",
+    "brand": "Withings",
+    "category": "Watches",
+    "price": 289.99,
+    "image": "https://picsum.photos/300?random=600",
+    "rating": 4.8,
+    "stock": 13,
+   "description": "Hybrid smartwatch with wellness tracking and classic analog design."
+      }
+    ]
+}

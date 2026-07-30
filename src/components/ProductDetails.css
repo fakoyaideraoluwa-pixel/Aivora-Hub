@@ -1,0 +1,35 @@
+.details-container {
+  display: flex;
+  gap: 40px;
+  padding: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.details-container img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.details {
+  max-width: 400px;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.desc {
+  margin: 15px 0;
+}
+
+.add-btn {
+  background: #ff4d00;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 25px;
+  cursor: pointer;
+}

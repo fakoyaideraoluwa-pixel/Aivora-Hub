@@ -1,0 +1,404 @@
+{
+    "womenhairkits":[
+  {
+    "id": 1,
+    "name": "Complete Natural Hair Care Kit",
+    "price": 28500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit1.jpg",
+    "description": "Complete natural hair care kit with shampoo, conditioner, leave-in conditioner, and hair oil."
+  },
+  {
+    "id": 2,
+    "name": "Curly Hair Essentials Kit",
+    "price": 32500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit2.jpg",
+    "description": "Designed to cleanse, define, and moisturize curly hair."
+  },
+  {
+    "id": 3,
+    "name": "Hair Growth Therapy Kit",
+    "price": 42500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit3.jpg",
+    "description": "Hair growth collection with shampoo, serum, scalp oil, and vitamins."
+  },
+  {
+    "id": 4,
+    "name": "Moisture Repair Hair Kit",
+    "price": 34800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit4.jpg",
+    "description": "Repairs dry, damaged hair while restoring moisture."
+  },
+  {
+    "id": 5,
+    "name": "Deep Conditioning Kit",
+    "price": 31500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit5.jpg",
+    "description": "Deep conditioning treatment for soft, healthy-looking hair."
+  },
+  {
+    "id": 6,
+    "name": "Protein Hair Treatment Kit",
+    "price": 36500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit6.jpg",
+    "description": "Strengthens weak hair using protein-rich formulas."
+  },
+  {
+    "id": 7,
+    "name": "Loc Maintenance Kit",
+    "price": 39500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit7.jpg",
+    "description": "Complete maintenance set for healthy and beautiful locs."
+  },
+  {
+    "id": 8,
+    "name": "Braids Care Kit",
+    "price": 29800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit8.jpg",
+    "description": "Keeps braided hairstyles moisturized, neat, and fresh."
+  },
+  {
+    "id": 9,
+    "name": "Wig Care Kit",
+    "price": 33500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit9.jpg",
+    "description": "Specially formulated products for maintaining synthetic and human hair wigs."
+  },
+  {
+    "id": 10,
+    "name": "Human Hair Extension Kit",
+    "price": 38500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit10.jpg",
+    "description": "Premium care kit for human hair extensions."
+  },
+  {
+    "id": 11,
+    "name": "Relaxed Hair Care Kit",
+    "price": 29500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit11.jpg",
+    "description": "Protects and nourishes chemically relaxed hair."
+  },
+  {
+    "id": 12,
+    "name": "Color-Treated Hair Kit",
+    "price": 35800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit12.jpg",
+    "description": "Preserves hair color while keeping strands healthy."
+  },
+  {
+    "id": 13,
+    "name": "Anti-Breakage Hair Kit",
+    "price": 34500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit13.jpg",
+    "description": "Helps reduce hair breakage and strengthens strands."
+  },
+  {
+    "id": 14,
+    "name": "Scalp Treatment Kit",
+    "price": 32500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit14.jpg",
+    "description": "Promotes a healthy scalp with nourishing treatments."
+  },
+  {
+    "id": 15,
+    "name": "Hair Hydration Kit",
+    "price": 31800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit15.jpg",
+    "description": "Intensive hydration treatment for dry hair."
+  },
+  {
+    "id": 16,
+    "name": "Luxury Hair Spa Kit",
+    "price": 49500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit16.jpg",
+    "description": "Spa-quality hair care products for a salon experience at home."
+  },
+  {
+    "id": 17,
+    "name": "Hair Shine Collection",
+    "price": 28500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit17.jpg",
+    "description": "Enhances shine while nourishing every strand."
+  },
+  {
+    "id": 18,
+    "name": "Hair Repair Therapy Kit",
+    "price": 37800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit18.jpg",
+    "description": "Therapy collection for damaged and over-processed hair."
+  },
+  {
+    "id": 19,
+    "name": "Hair Nourishment Kit",
+    "price": 33600,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit19.jpg",
+    "description": "Vitamin-enriched products for healthier-looking hair."
+  },
+  {
+    "id": 20,
+    "name": "Hair Moisture Lock Kit",
+    "price": 30500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit20.jpg",
+    "description": "Locks in moisture and keeps hair soft throughout the day."
+  },
+  {
+    "id": 21,
+    "name": "Professional Styling Kit",
+    "price": 42500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit21.jpg",
+    "description": "Professional styling products for salon-quality hairstyles."
+  },
+  {
+    "id": 22,
+    "name": "Hair Volume Boost Kit",
+    "price": 34800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit22.jpg",
+    "description": "Creates fuller-looking hair with nourishing ingredients."
+  },
+  {
+    "id": 23,
+    "name": "Luxury Curl Definition Kit",
+    "price": 38500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit23.jpg",
+    "description": "Defines curls while controlling frizz and dryness."
+  },
+  {
+    "id": 24,
+    "name": "Hair Wellness Bundle",
+    "price": 45800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit24.jpg",
+    "description": "Complete hair wellness bundle for everyday care."
+  },
+  {
+    "id": 25,
+    "name": "Ultimate Hair Care Starter Kit",
+    "price": 52500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit25.jpg",
+    "description": "Premium starter kit with cleansing, conditioning, treatment, and styling essentials."
+  },
+  {
+    "id": 26,
+    "name": "Hair Restoration Care Kit",
+    "price": 39500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit26.jpg",
+    "description": "Complete restoration kit with shampoo, conditioner, serum, and nourishing scalp oil."
+  },
+  {
+    "id": 27,
+    "name": "Daily Hair Maintenance Kit",
+    "price": 24800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit27.jpg",
+    "description": "Daily essentials for cleansing, moisturizing, and protecting hair."
+  },
+  {
+    "id": 28,
+    "name": "Scalp Detox Therapy Kit",
+    "price": 33800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit28.jpg",
+    "description": "Detoxifies the scalp while promoting a clean and refreshed feeling."
+  },
+  {
+    "id": 29,
+    "name": "Hair Strengthening Kit",
+    "price": 36500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit29.jpg",
+    "description": "Strengthens fragile strands and helps reduce breakage."
+  },
+  {
+    "id": 30,
+    "name": "Healthy Hair Essentials Kit",
+    "price": 27500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit30.jpg",
+    "description": "Essential products for maintaining healthy, beautiful hair."
+  },
+  {
+    "id": 31,
+    "name": "Advanced Hair Growth Collection",
+    "price": 48500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit31.jpg",
+    "description": "Premium collection formulated to support healthier-looking hair."
+  },
+  {
+    "id": 32,
+    "name": "Luxury Hair Therapy Kit",
+    "price": 52500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit32.jpg",
+    "description": "Salon-inspired treatment for dry, damaged, and stressed hair."
+  },
+  {
+    "id": 33,
+    "name": "Protein Repair Collection",
+    "price": 39500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit33.jpg",
+    "description": "Protein-enriched formulas that restore strength and elasticity."
+  },
+  {
+    "id": 34,
+    "name": "Hair Shine Therapy Kit",
+    "price": 31800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit34.jpg",
+    "description": "Enhances shine while nourishing every strand."
+  },
+  {
+    "id": 35,
+    "name": "Hair Texture Care Kit",
+    "price": 34200,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit35.jpg",
+    "description": "Defines natural texture while reducing frizz."
+  },
+  {
+    "id": 36,
+    "name": "Premium Curl Care Kit",
+    "price": 42800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit36.jpg",
+    "description": "Complete care set designed for curly and coily hair."
+  },
+  {
+    "id": 37,
+    "name": "Professional Loc Care Collection",
+    "price": 45800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit37.jpg",
+    "description": "Professional products for maintaining healthy locs."
+  },
+  {
+    "id": 38,
+    "name": "Premium Braid Maintenance Kit",
+    "price": 36800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit38.jpg",
+    "description": "Keeps braids moisturized, neat, and long-lasting."
+  },
+  {
+    "id": 39,
+    "name": "Hair Protection Kit",
+    "price": 33500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit39.jpg",
+    "description": "Protects hair from heat, dryness, and environmental damage."
+  },
+  {
+    "id": 40,
+    "name": "Deep Moisture Hair Kit",
+    "price": 38500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit40.jpg",
+    "description": "Deeply hydrates dry hair for improved softness and shine."
+  },
+  {
+    "id": 41,
+    "name": "Hair Recovery Therapy Kit",
+    "price": 41500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit41.jpg",
+    "description": "Restores damaged hair with nourishing treatment products."
+  },
+  {
+    "id": 42,
+    "name": "Premium Hair Styling Kit",
+    "price": 44800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit42.jpg",
+    "description": "Complete styling collection for everyday and special occasions."
+  },
+  {
+    "id": 43,
+    "name": "Complete Hair Wellness Kit",
+    "price": 49500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit43.jpg",
+    "description": "Comprehensive wellness kit for healthy hair and scalp."
+  },
+  {
+    "id": 44,
+    "name": "Hair Strength Booster Kit",
+    "price": 38500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit44.jpg",
+    "description": "Strengthens weak hair and improves resilience."
+  },
+  {
+    "id": 45,
+    "name": "Luxury Hair Oil Collection",
+    "price": 29500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit45.jpg",
+    "description": "Premium nourishing hair oils suitable for various hair types."
+  },
+  {
+    "id": 46,
+    "name": "Hair Styling Essentials Kit",
+    "price": 31800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit46.jpg",
+    "description": "Includes styling cream, edge control, comb, and finishing products."
+  },
+  {
+    "id": 47,
+    "name": "Luxury Hair Maintenance Bundle",
+    "price": 52500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit47.jpg",
+    "description": "Premium maintenance bundle for healthy and vibrant hair."
+  },
+  {
+    "id": 48,
+    "name": "Hair Refresh Kit",
+    "price": 25500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit48.jpg",
+    "description": "Keeps hair fresh, clean, and easy to manage between washes."
+  },
+  {
+    "id": 49,
+    "name": "Luxury Hair Recovery Collection",
+    "price": 54500,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit49.jpg",
+    "description": "Premium recovery products for dry and damaged hair."
+  },
+  {
+    "id": 50,
+    "name": "Professional Hair Treatment Bundle",
+    "price": 59800,
+    "category": "Women's Hair Kits",
+    "image": "womens-hairkit50.jpg",
+    "description": "Professional-grade bundle featuring complete hair treatment and styling essentials."
+  }
+]
+}

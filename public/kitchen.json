@@ -1,0 +1,324 @@
+{
+   "kitappliances":[
+  {
+    "id": 1,
+    "name": "Electric Kettle",
+    "price": 18500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen1.jpg",
+    "description": "1.7L fast-boiling electric kettle with automatic shut-off."
+  },
+  {
+    "id": 2,
+    "name": "2-Slice Toaster",
+    "price": 22000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen2.jpg",
+    "description": "Compact toaster with adjustable browning control."
+  },
+  {
+    "id": 3,
+    "name": "Blender",
+    "price": 28500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen3.jpg",
+    "description": "High-speed blender for smoothies, soups, and sauces."
+  },
+  {
+    "id": 4,
+    "name": "Food Processor",
+    "price": 48000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen4.jpg",
+    "description": "Multi-purpose food processor with slicing and chopping blades."
+  },
+  {
+    "id": 5,
+    "name": "Rice Cooker",
+    "price": 36000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen5.jpg",
+    "description": "Automatic rice cooker with keep-warm function."
+  },
+  {
+    "id": 6,
+    "name": "Air Fryer",
+    "price": 69000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen6.jpg",
+    "description": "Healthy oil-free cooking with digital temperature controls."
+  },
+  {
+    "id": 7,
+    "name": "Microwave Oven",
+    "price": 85000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen7.jpg",
+    "description": "20L microwave oven with defrost and grill functions."
+  },
+  {
+    "id": 8,
+    "name": "Coffee Maker",
+    "price": 42000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen8.jpg",
+    "description": "12-cup programmable coffee machine."
+  },
+  {
+    "id": 9,
+    "name": "Juicer",
+    "price": 33000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen9.jpg",
+    "description": "Powerful fruit and vegetable juice extractor."
+  },
+  {
+    "id": 10,
+    "name": "Hand Mixer",
+    "price": 17000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen10.jpg",
+    "description": "5-speed hand mixer with stainless steel beaters."
+  },
+  {
+    "id": 11,
+    "name": "Stand Mixer",
+    "price": 98000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen11.jpg",
+    "description": "Heavy-duty stand mixer with multiple attachments."
+  },
+  {
+    "id": 12,
+    "name": "Electric Pressure Cooker",
+    "price": 78000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen12.jpg",
+    "description": "Multi-function pressure cooker for quick meals."
+  },
+  {
+    "id": 13,
+    "name": "Deep Fryer",
+    "price": 39500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen13.jpg",
+    "description": "Electric deep fryer with temperature control."
+  },
+  {
+    "id": 14,
+    "name": "Sandwich Maker",
+    "price": 19000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen14.jpg",
+    "description": "Non-stick sandwich grill with indicator lights."
+  },
+  {
+    "id": 15,
+    "name": "Waffle Maker",
+    "price": 24500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen15.jpg",
+    "description": "Makes crispy Belgian waffles in minutes."
+  },
+  {
+    "id": 16,
+    "name": "Electric Grill",
+    "price": 51000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen16.jpg",
+    "description": "Indoor smokeless electric grill."
+  },
+  {
+    "id": 17,
+    "name": "Slow Cooker",
+    "price": 36500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen17.jpg",
+    "description": "6L slow cooker for soups and stews."
+  },
+  {
+    "id": 18,
+    "name": "Electric Chopper",
+    "price": 15500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen18.jpg",
+    "description": "Mini electric chopper for vegetables and herbs."
+  },
+  {
+    "id": 19,
+    "name": "Popcorn Maker",
+    "price": 28000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen19.jpg",
+    "description": "Hot-air popcorn maker without oil."
+  },
+  {
+    "id": 20,
+    "name": "Bread Maker",
+    "price": 73000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen20.jpg",
+    "description": "Automatic bread machine with multiple baking programs."
+  },
+  {
+    "id": 21,
+    "name": "Electric Egg Boiler",
+    "price": 14500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen21.jpg",
+    "description": "Boils up to 7 eggs with auto shut-off."
+  },
+  {
+    "id": 22,
+    "name": "Induction Cooker",
+    "price": 44500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen22.jpg",
+    "description": "Portable induction cooktop with touch controls."
+  },
+  {
+    "id": 23,
+    "name": "Countertop Oven",
+    "price": 69000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen23.jpg",
+    "description": "Compact oven for baking, roasting, and toasting."
+  },
+  {
+    "id": 24,
+    "name": "Electric Hot Plate",
+    "price": 26000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen24.jpg",
+    "description": "Single-burner electric hot plate for quick cooking."
+  },
+  {
+    "id": 25,
+    "name": "Ice Cream Maker",
+    "price": 58000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen25.jpg",
+    "description": "Homemade ice cream maker with frozen bowl."
+  },
+  {
+    "id": 26,
+    "name": "Electric Spice Grinder",
+    "price": 21500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen26.jpg",
+    "description": "Compact grinder for spices, herbs, coffee beans, and seeds."
+  },
+  {
+    "id": 27,
+    "name": "Vacuum Food Sealer",
+    "price": 47500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen27.jpg",
+    "description": "Keeps food fresh longer with airtight vacuum sealing."
+  },
+  {
+    "id": 28,
+    "name": "Electric Can Opener",
+    "price": 16500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen28.jpg",
+    "description": "Hands-free electric can opener with safety edge cutting."
+  },
+  {
+    "id": 29,
+    "name": "Yogurt Maker",
+    "price": 34000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen29.jpg",
+    "description": "Prepare fresh homemade yogurt with adjustable timer."
+  },
+  {
+    "id": 30,
+    "name": "Electric Steamer",
+    "price": 39000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen30.jpg",
+    "description": "Multi-tier food steamer for vegetables, fish, and rice."
+  },
+  {
+    "id": 31,
+    "name": "Citrus Juicer",
+    "price": 18500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen31.jpg",
+    "description": "Electric citrus juicer for oranges, lemons, and limes."
+  },
+  {
+    "id": 32,
+    "name": "Milk Frother",
+    "price": 19500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen32.jpg",
+    "description": "Creates creamy foam for coffee, cappuccino, and latte."
+  },
+  {
+    "id": 33,
+    "name": "Portable Blender",
+    "price": 24000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen33.jpg",
+    "description": "Rechargeable portable blender for smoothies on the go."
+  },
+  {
+    "id": 34,
+    "name": "Electric Knife",
+    "price": 32000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen34.jpg",
+    "description": "Electric carving knife with stainless steel blades."
+  },
+  {
+    "id": 35,
+    "name": "Chocolate Fountain",
+    "price": 42500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen35.jpg",
+    "description": "Perfect for parties and dessert dipping."
+  },
+  {
+    "id": 36,
+    "name": "Pancake Maker",
+    "price": 28000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen36.jpg",
+    "description": "Non-stick electric pancake and crepe maker."
+  },
+  {
+    "id": 37,
+    "name": "Electric Skillet",
+    "price": 45500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen37.jpg",
+    "description": "Large electric frying pan with temperature control."
+  },
+  {
+    "id": 38,
+    "name": "Sous Vide Cooker",
+    "price": 87000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen38.jpg",
+    "description": "Precision cooker for restaurant-quality meals."
+  },
+  {
+    "id": 39,
+    "name": "Electric Pasta Maker",
+    "price": 69000,
+    "category": "Kitchen Appliances",
+    "image": "kitchen39.jpg",
+    "description": "Automatic pasta machine with multiple shaping discs."
+  },
+  {
+    "id": 40,
+    "name": "Mini Rice Cooker",
+    "price": 26500,
+    "category": "Kitchen Appliances",
+    "image": "kitchen40.jpg",
+    "description": "Compact rice cooker ideal for one or two servings."
+  }
+] 
+}

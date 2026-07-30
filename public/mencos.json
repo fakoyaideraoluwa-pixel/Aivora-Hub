@@ -1,0 +1,388 @@
+{
+    "mencosmestics":[
+  {
+    "id": 1,
+    "name": "Daily Face Wash",
+    "price": 6500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics1.jpg",
+    "description": "Deep-cleansing face wash that removes dirt, oil, and impurities."
+  },
+  {
+    "id": 2,
+    "name": "Charcoal Face Cleanser",
+    "price": 7800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics2.jpg",
+    "description": "Activated charcoal cleanser that deeply purifies pores."
+  },
+  {
+    "id": 3,
+    "name": "Oil Control Face Wash",
+    "price": 7200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics3.jpg",
+    "description": "Helps reduce excess oil while keeping skin fresh."
+  },
+  {
+    "id": 4,
+    "name": "Hydrating Facial Cleanser",
+    "price": 8500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics4.jpg",
+    "description": "Gentle cleanser that hydrates while cleansing the skin."
+  },
+  {
+    "id": 5,
+    "name": "Exfoliating Face Scrub",
+    "price": 8900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics5.jpg",
+    "description": "Removes dead skin cells for smoother, healthier-looking skin."
+  },
+  {
+    "id": 6,
+    "name": "Vitamin C Face Serum",
+    "price": 16500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics6.jpg",
+    "description": "Brightening serum enriched with Vitamin C."
+  },
+  {
+    "id": 7,
+    "name": "Hyaluronic Acid Serum",
+    "price": 17800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics7.jpg",
+    "description": "Hydrates and plumps the skin with hyaluronic acid."
+  },
+  {
+    "id": 8,
+    "name": "Anti-Acne Face Gel",
+    "price": 9800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics8.jpg",
+    "description": "Fast-acting gel formulated to reduce blemishes."
+  },
+  {
+    "id": 9,
+    "name": "Moisturizing Face Cream",
+    "price": 11200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics9.jpg",
+    "description": "Daily moisturizer that keeps skin soft and hydrated."
+  },
+  {
+    "id": 10,
+    "name": "Matte Face Moisturizer",
+    "price": 12500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics10.jpg",
+    "description": "Lightweight moisturizer with a shine-free matte finish."
+  },
+  {
+    "id": 11,
+    "name": "SPF 50 Sunscreen Lotion",
+    "price": 13500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics11.jpg",
+    "description": "Broad-spectrum sunscreen for everyday UV protection."
+  },
+  {
+    "id": 12,
+    "name": "Aftershave Balm",
+    "price": 8400,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics12.jpg",
+    "description": "Soothes and moisturizes skin after shaving."
+  },
+  {
+    "id": 13,
+    "name": "Shaving Cream",
+    "price": 5900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics13.jpg",
+    "description": "Rich shaving cream for a smooth and comfortable shave."
+  },
+  {
+    "id": 14,
+    "name": "Shaving Foam",
+    "price": 6200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics14.jpg",
+    "description": "Foaming shave formula that softens facial hair."
+  },
+  {
+    "id": 15,
+    "name": "Pre-Shave Oil",
+    "price": 9100,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics15.jpg",
+    "description": "Prepares the skin for a closer and smoother shave."
+  },
+  {
+    "id": 16,
+    "name": "Beard Oil",
+    "price": 8800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics16.jpg",
+    "description": "Conditions and softens beard hair while moisturizing the skin."
+  },
+  {
+    "id": 17,
+    "name": "Beard Balm",
+    "price": 9500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics17.jpg",
+    "description": "Shapes and nourishes beards with a natural finish."
+  },
+  {
+    "id": 18,
+    "name": "Beard Shampoo",
+    "price": 8600,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics18.jpg",
+    "description": "Specially formulated shampoo for beard cleansing."
+  },
+  {
+    "id": 19,
+    "name": "Beard Conditioner",
+    "price": 8900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics19.jpg",
+    "description": "Softens beard hair while reducing dryness."
+  },
+  {
+    "id": 36,
+    "name": "Roll-On Deodorant",
+    "price": 4800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics36.jpg",
+    "description": "Provides long-lasting freshness and odor protection."
+  },
+  {
+    "id": 37,
+    "name": "Stick Deodorant",
+    "price": 5500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics37.jpg",
+    "description": "Smooth-gliding deodorant stick with all-day protection."
+  },
+  {
+    "id": 38,
+    "name": "Antiperspirant Spray",
+    "price": 6900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics38.jpg",
+    "description": "Helps control sweat while keeping you fresh."
+  },
+  {
+    "id": 39,
+    "name": "Body Lotion",
+    "price": 8900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics39.jpg",
+    "description": "Moisturizing body lotion suitable for daily use."
+  },
+  {
+    "id": 40,
+    "name": "Body Butter",
+    "price": 11200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics40.jpg",
+    "description": "Rich body butter that deeply nourishes dry skin."
+  },
+  {
+    "id": 41,
+    "name": "Body Scrub",
+    "price": 9500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics41.jpg",
+    "description": "Exfoliating scrub that removes dead skin cells."
+  },
+  {
+    "id": 42,
+    "name": "Shower Gel",
+    "price": 6800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics42.jpg",
+    "description": "Refreshing body wash that leaves skin feeling clean."
+  },
+  {
+    "id": 43,
+    "name": "Moisturizing Body Wash",
+    "price": 7900,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics43.jpg",
+    "description": "Hydrating body wash with a rich lather."
+  },
+  {
+    "id": 44,
+    "name": "Foot Cream",
+    "price": 7200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics44.jpg",
+    "description": "Softens rough heels and moisturizes dry feet."
+  },
+  {
+    "id": 45,
+    "name": "Hand Cream",
+    "price": 5800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics45.jpg",
+    "description": "Fast-absorbing cream that nourishes dry hands."
+  },
+  {
+    "id": 46,
+    "name": "Lip Balm",
+    "price": 3500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics46.jpg",
+    "description": "Hydrates and protects dry, chapped lips."
+  },
+  {
+    "id": 47,
+    "name": "Under Eye Cream",
+    "price": 14800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics47.jpg",
+    "description": "Helps reduce the appearance of puffiness and dark circles."
+  },
+  {
+    "id": 48,
+    "name": "Facial Toner",
+    "price": 8200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics48.jpg",
+    "description": "Balances skin and minimizes the appearance of pores."
+  },
+  {
+    "id": 49,
+    "name": "Micellar Cleansing Water",
+    "price": 8600,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics49.jpg",
+    "description": "Gently removes dirt and excess oil without rinsing."
+  },
+  {
+    "id": 50,
+    "name": "Overnight Face Cream",
+    "price": 13800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics50.jpg",
+    "description": "Night cream formulated to moisturize and refresh skin while you sleep."
+  },
+  {
+    "id": 51,
+    "name": "Clay Face Mask",
+    "price": 9800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics51.jpg",
+    "description": "Deep-cleansing clay mask that removes excess oil and impurities."
+  },
+  {
+    "id": 52,
+    "name": "Charcoal Peel-Off Mask",
+    "price": 9200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics52.jpg",
+    "description": "Purifying peel-off mask that helps unclog pores."
+  },
+  {
+    "id": 53,
+    "name": "Hydrating Sheet Mask",
+    "price": 4500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics53.jpg",
+    "description": "Moisturizing facial sheet mask infused with nourishing ingredients."
+  },
+  {
+    "id": 54,
+    "name": "Brightening Face Mask",
+    "price": 10500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics54.jpg",
+    "description": "Enhances skin radiance and promotes an even complexion."
+  },
+  {
+    "id": 55,
+    "name": "Facial Cleansing Brush",
+    "price": 18500,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics55.jpg",
+    "description": "Soft-bristle cleansing brush for a deeper facial cleanse."
+  },
+  {
+    "id": 56,
+    "name": "Blackhead Remover Kit",
+    "price": 14800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics56.jpg",
+    "description": "Professional kit designed to safely remove blackheads."
+  },
+  {
+    "id": 57,
+    "name": "Pore Minimizing Serum",
+    "price": 15600,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics57.jpg",
+    "description": "Helps reduce the appearance of enlarged pores."
+  },
+  {
+    "id": 58,
+    "name": "Acne Spot Treatment",
+    "price": 8400,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics58.jpg",
+    "description": "Targeted treatment for occasional blemishes."
+  },
+  {
+    "id": 59,
+    "name": "Facial Mist",
+    "price": 7200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics59.jpg",
+    "description": "Refreshing facial mist that hydrates and cools the skin."
+  },
+  {
+    "id": 60,
+    "name": "Vitamin E Face Cream",
+    "price": 11800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics60.jpg",
+    "description": "Nourishing moisturizer enriched with Vitamin E."
+  },
+  {
+    "id": 61,
+    "name": "Cooling Aftershave Gel",
+    "price": 8600,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics61.jpg",
+    "description": "Cooling gel that calms irritation after shaving."
+  },
+  {
+    "id": 62,
+    "name": "Beard Growth Serum",
+    "price": 17800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics62.jpg",
+    "description": "Lightweight serum formulated to nourish beard hair."
+  },
+  {
+    "id": 63,
+    "name": "Mustache Wax",
+    "price": 6800,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics63.jpg",
+    "description": "Strong-hold wax for shaping and styling mustaches."
+  },
+  {
+    "id": 64,
+    "name": "Beard Softening Cream",
+    "price": 9200,
+    "category": "Men's Cosmetics",
+    "image": "mens-cosmetics64.jpg",
+    "description": "Conditions beard hair for a softer feel."
+  }
+]
+}

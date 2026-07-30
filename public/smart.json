@@ -1,0 +1,805 @@
+{
+    "gadgets":[
+  {
+    "id": 1,
+    "name": "Android Tablet 10.1 Inch",
+    "price": 128500,
+    "category": "Tablets",
+    "image": "tablet1.jpg",
+    "description": "10.1-inch Android tablet with Full HD display, 128GB storage, and long-lasting battery."
+  },
+  {
+    "id": 2,
+    "name": "Premium Android Tablet",
+    "price": 185000,
+    "category": "Tablets",
+    "image": "tablet2.jpg",
+    "description": "High-performance Android tablet featuring an 11-inch display and fast octa-core processor."
+  },
+  {
+    "id": 3,
+    "name": "Kids Learning Tablet",
+    "price": 89500,
+    "category": "Tablets",
+    "image": "tablet3.jpg",
+    "description": "Durable educational tablet with parental controls and child-friendly applications."
+  },
+  {
+    "id": 4,
+    "name": "2-in-1 Windows Tablet",
+    "price": 285000,
+    "category": "Tablets",
+    "image": "tablet4.jpg",
+    "description": "Windows tablet with detachable keyboard for work, study, and entertainment."
+  },
+  {
+    "id": 5,
+    "name": "8-Inch Compact Tablet",
+    "price": 98500,
+    "category": "Tablets",
+    "image": "tablet5.jpg",
+    "description": "Portable 8-inch tablet ideal for reading, streaming, and web browsing."
+  },
+  {
+    "id": 6,
+    "name": "Business Productivity Tablet",
+    "price": 265000,
+    "category": "Tablets",
+    "image": "tablet6.jpg",
+    "description": "Professional tablet designed for multitasking, note-taking, and office productivity."
+  },
+  {
+    "id": 7,
+    "name": "Gaming Android Tablet",
+    "price": 235000,
+    "category": "Tablets",
+    "image": "tablet7.jpg",
+    "description": "Powerful Android gaming tablet with high refresh rate display and enhanced graphics."
+  },
+  {
+    "id": 8,
+    "name": "Student Study Tablet",
+    "price": 118500,
+    "category": "Tablets",
+    "image": "tablet8.jpg",
+    "description": "Affordable tablet for online learning, note-taking, and educational apps."
+  },
+  {
+    "id": 9,
+    "name": "OLED Display Tablet",
+    "price": 365000,
+    "category": "Tablets",
+    "image": "tablet9.jpg",
+    "description": "Premium tablet with vibrant OLED display and immersive multimedia experience."
+  },
+  {
+    "id": 10,
+    "name": "LTE Android Tablet",
+    "price": 195000,
+    "category": "Tablets",
+    "image": "tablet10.jpg",
+    "description": "4G LTE tablet allowing internet connectivity without Wi-Fi."
+  },
+  {
+    "id": 11,
+    "name": "Creative Drawing Tablet",
+    "price": 315000,
+    "category": "Tablets",
+    "image": "tablet11.jpg",
+    "description": "Tablet optimized for digital artists with stylus support and precision touch input."
+  },
+  {
+    "id": 12,
+    "name": "Mini Android Tablet",
+    "price": 84500,
+    "category": "Tablets",
+    "image": "tablet12.jpg",
+    "description": "Lightweight mini tablet perfect for travel and everyday entertainment."
+  },
+  {
+    "id": 13,
+    "name": "Entertainment Tablet",
+    "price": 168500,
+    "category": "Tablets",
+    "image": "tablet13.jpg",
+    "description": "Large-screen tablet with immersive speakers for movies and streaming."
+  },
+  {
+    "id": 14,
+    "name": "Tablet with Stylus Pen",
+    "price": 245000,
+    "category": "Tablets",
+    "image": "tablet14.jpg",
+    "description": "Responsive touchscreen tablet bundled with a precision stylus pen."
+  },
+  {
+    "id": 15,
+    "name": "Ultra Slim Tablet",
+    "price": 218000,
+    "category": "Tablets",
+    "image": "tablet15.jpg",
+    "description": "Elegant lightweight tablet with slim aluminum design and powerful performance."
+  },
+  {
+    "id": 16,
+    "name": "Wi-Fi Only Tablet",
+    "price": 108500,
+    "category": "Tablets",
+    "image": "tablet16.jpg",
+    "description": "Reliable Wi-Fi tablet for browsing, reading, and video streaming."
+  },
+  {
+    "id": 17,
+    "name": "Professional Office Tablet",
+    "price": 335000,
+    "category": "Tablets",
+    "image": "tablet17.jpg",
+    "description": "High-end tablet built for office productivity, multitasking, and presentations."
+  },
+  {
+    "id": 18,
+    "name": "High Storage Tablet 256GB",
+    "price": 278000,
+    "category": "Tablets",
+    "image": "tablet18.jpg",
+    "description": "Tablet with 256GB storage for apps, documents, photos, and videos."
+  },
+  {
+    "id": 19,
+    "name": "Family Entertainment Tablet",
+    "price": 156500,
+    "category": "Tablets",
+    "image": "tablet19.jpg",
+    "description": "Versatile family tablet suitable for streaming, games, and educational content."
+  },
+  {
+    "id": 20,
+    "name": "Premium Multimedia Tablet",
+    "price": 395000,
+    "category": "Tablets",
+    "image": "tablet20.jpg",
+    "description": "Premium multimedia tablet with stunning display and immersive sound system."
+  },
+  {
+    "id": 21,
+    "name": "Travel Tablet",
+    "price": 138500,
+    "category": "Tablets",
+    "image": "tablet21.jpg",
+    "description": "Portable tablet with long battery life designed for travelers."
+  },
+  {
+    "id": 22,
+    "name": "Large Screen Tablet 12 Inch",
+    "price": 348000,
+    "category": "Tablets",
+    "image": "tablet22.jpg",
+    "description": "12-inch tablet providing a spacious display for productivity and entertainment."
+  },
+  {
+    "id": 23,
+    "name": "Budget Android Tablet",
+    "price": 76500,
+    "category": "Tablets",
+    "image": "tablet23.jpg",
+    "description": "Affordable Android tablet offering smooth performance for daily tasks."
+  },
+  {
+    "id": 24,
+    "name": "Education Tablet Bundle",
+    "price": 165000,
+    "category": "Tablets",
+    "image": "tablet24.jpg",
+    "description": "Tablet package including protective case, screen protector, and educational apps."
+  },
+  {
+    "id": 25,
+    "name": "Premium Tablet Starter Bundle",
+    "price": 485000,
+    "category": "Tablets",
+    "image": "tablet25.jpg",
+    "description": "Complete tablet bundle including stylus, keyboard, protective case, and wireless accessories."
+  },
+  {
+    "id": 26,
+    "name": "Smart Ring Fitness Tracker",
+    "price": 89500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget26.jpg",
+    "description": "Compact smart ring with activity tracking, sleep monitoring, and heart rate measurement."
+  },
+  {
+    "id": 27,
+    "name": "Portable Solar Power Bank",
+    "price": 38500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget27.jpg",
+    "description": "20000mAh solar-assisted power bank with dual USB charging ports."
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Smart Glasses",
+    "price": 125000,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget28.jpg",
+    "description": "Stylish smart glasses with Bluetooth audio, built-in microphone, and hands-free calling."
+  },
+  {
+    "id": 29,
+    "name": "Wireless Lavalier Microphone",
+    "price": 46500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget29.jpg",
+    "description": "Portable wireless microphone ideal for content creation, interviews, and livestreams."
+  },
+  {
+    "id": 30,
+    "name": "Mini Smart Photo Frame",
+    "price": 68500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget30.jpg",
+    "description": "Wi-Fi digital photo frame that automatically displays uploaded photos."
+  },
+  {
+    "id": 31,
+    "name": "Smart Door Sensor",
+    "price": 18200,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget31.jpg",
+    "description": "Wi-Fi enabled sensor that alerts you when doors or windows are opened."
+  },
+  {
+    "id": 32,
+    "name": "USB Rechargeable Flashlight",
+    "price": 15800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget32.jpg",
+    "description": "High-brightness rechargeable LED flashlight with multiple lighting modes."
+  },
+  {
+    "id": 33,
+    "name": "Wireless Car Charger Mount",
+    "price": 29500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget33.jpg",
+    "description": "Automatic clamping phone holder with fast wireless charging."
+  },
+  {
+    "id": 34,
+    "name": "Smart Water Leak Detector",
+    "price": 24800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget34.jpg",
+    "description": "Leak detection sensor with instant smartphone notifications."
+  },
+  {
+    "id": 35,
+    "name": "Rechargeable Electric Lighter",
+    "price": 13800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget35.jpg",
+    "description": "USB rechargeable flameless electric lighter with safety protection."
+  },
+  {
+    "id": 36,
+    "name": "Portable Air Quality Detector",
+    "price": 59800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget36.jpg",
+    "description": "Digital monitor that measures indoor air quality, humidity, and temperature."
+  },
+  {
+    "id": 37,
+    "name": "Wi-Fi Smart Bulb",
+    "price": 16800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget37.jpg",
+    "description": "Color-changing LED bulb controlled through a smartphone app or voice assistant."
+  },
+  {
+    "id": 38,
+    "name": "Smart Pet Tracker",
+    "price": 41200,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget38.jpg",
+    "description": "GPS-enabled pet tracker with real-time location updates."
+  },
+  {
+    "id": 39,
+    "name": "Bluetooth Sleep Headphones",
+    "price": 32500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget39.jpg",
+    "description": "Soft wireless headband headphones designed for sleeping and relaxation."
+  },
+  {
+    "id": 40,
+    "name": "Smart Aroma Diffuser",
+    "price": 35800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget40.jpg",
+    "description": "App-controlled aroma diffuser with adjustable mist and LED lighting."
+  },
+  {
+    "id": 41,
+    "name": "Wireless Selfie Stick Tripod",
+    "price": 19800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget41.jpg",
+    "description": "Bluetooth selfie stick with detachable remote and tripod stand."
+  },
+  {
+    "id": 42,
+    "name": "Digital Kitchen Scale",
+    "price": 17500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget42.jpg",
+    "description": "Precision electronic scale with LCD display for cooking and baking."
+  },
+  {
+    "id": 43,
+    "name": "Rechargeable Mini Fan",
+    "price": 14900,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget43.jpg",
+    "description": "Portable handheld fan with USB charging and adjustable speed settings."
+  },
+  {
+    "id": 44,
+    "name": "Smart IR Remote Controller",
+    "price": 24500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget44.jpg",
+    "description": "Universal infrared controller for managing TVs, air conditioners, and home appliances."
+  },
+  {
+    "id": 45,
+    "name": "Wireless Charging Dock",
+    "price": 38500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget45.jpg",
+    "description": "3-in-1 charging station for compatible smartphones, smartwatches, and earbuds."
+  },
+  {
+    "id": 46,
+    "name": "Mini Pocket Projector",
+    "price": 96500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget46.jpg",
+    "description": "Portable projector supporting wireless screen mirroring and HD playback."
+  },
+  {
+    "id": 47,
+    "name": "Portable Label Printer",
+    "price": 45800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget47.jpg",
+    "description": "Bluetooth thermal label printer for home, office, and organization."
+  },
+  {
+    "id": 48,
+    "name": "Smart Digital Notebook",
+    "price": 72500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget48.jpg",
+    "description": "Reusable notebook that digitizes handwritten notes through a companion app."
+  },
+  {
+    "id": 49,
+    "name": "AI Voice Translator Device",
+    "price": 118000,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget49.jpg",
+    "description": "Portable real-time language translator supporting multiple international languages."
+  },
+  {
+    "id": 50,
+    "name": "Premium Smart Gadget Collection",
+    "price": 245000,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget50.jpg",
+    "description": "Luxury bundle featuring premium smart devices for productivity, entertainment, travel, and everyday convenience."
+  },
+  {
+    "id": 51,
+    "name": "Smart Wi-Fi Doorbell Camera",
+    "price": 89500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget51.jpg",
+    "description": "HD smart doorbell with motion detection, two-way audio, and smartphone notifications."
+  },
+  {
+    "id": 52,
+    "name": "Bluetooth Sleep Mask",
+    "price": 27500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget52.jpg",
+    "description": "Comfortable sleep mask with built-in Bluetooth speakers for music and relaxation."
+  },
+  {
+    "id": 53,
+    "name": "USB Smart Mug Warmer",
+    "price": 18500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget53.jpg",
+    "description": "Desktop mug warmer that keeps coffee and tea at a consistent temperature."
+  },
+  {
+    "id": 54,
+    "name": "Smart Digital Weather Station",
+    "price": 42500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget54.jpg",
+    "description": "Indoor weather station displaying temperature, humidity, and weather forecasts."
+  },
+  {
+    "id": 55,
+    "name": "Portable Bluetooth Printer",
+    "price": 68500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget55.jpg",
+    "description": "Wireless thermal printer for printing notes, labels, and receipts."
+  },
+  {
+    "id": 56,
+    "name": "Smart Water Bottle",
+    "price": 36500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget56.jpg",
+    "description": "Reusable bottle with hydration reminders and LED temperature display."
+  },
+  {
+    "id": 57,
+    "name": "Mini Smart Vacuum Robot",
+    "price": 155000,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget57.jpg",
+    "description": "Automatic robot vacuum cleaner with intelligent navigation."
+  },
+  {
+    "id": 58,
+    "name": "Wireless Barcode Scanner",
+    "price": 49500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget58.jpg",
+    "description": "Rechargeable Bluetooth barcode scanner for retail and warehouse use."
+  },
+  {
+    "id": 59,
+    "name": "Portable Smart Blender",
+    "price": 33500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget59.jpg",
+    "description": "USB rechargeable personal blender for smoothies and juices."
+  },
+  {
+    "id": 60,
+    "name": "Smart Touch Bedside Lamp",
+    "price": 29800,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget60.jpg",
+    "description": "LED bedside lamp with touch controls, dimming, and color-changing modes."
+  },
+  {
+    "id": 61,
+    "name": "Wireless Charging Clock",
+    "price": 31500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget61.jpg",
+    "description": "Digital alarm clock with built-in wireless phone charging."
+  },
+  {
+    "id": 62,
+    "name": "Smart Fingerprint Padlock",
+    "price": 28500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget62.jpg",
+    "description": "Rechargeable biometric padlock with fingerprint unlocking."
+  },
+  {
+    "id": 63,
+    "name": "Portable Mini Air Purifier",
+    "price": 45500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget63.jpg",
+    "description": "USB-powered air purifier for personal workspaces and travel."
+  },
+  {
+    "id": 64,
+    "name": "Smart Plant Monitor",
+    "price": 24500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget64.jpg",
+    "description": "Bluetooth plant sensor that tracks soil moisture, sunlight, and temperature."
+  },
+  {
+    "id": 65,
+    "name": "Wireless HDMI Display Adapter",
+    "price": 39500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget65.jpg",
+    "description": "Wireless display adapter for streaming phone or laptop screens to TVs."
+  },
+  {
+    "id": 66,
+    "name": "Rechargeable Electric Screwdriver",
+    "price": 48500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget66.jpg",
+    "description": "Cordless precision screwdriver set for electronics and home repairs."
+  },
+  {
+    "id": 67,
+    "name": "Smart Bicycle Tail Light",
+    "price": 21500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget67.jpg",
+    "description": "Rechargeable bike tail light with automatic brake sensing."
+  },
+  {
+    "id": 68,
+    "name": "Portable Wi-Fi Hotspot",
+    "price": 76500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget68.jpg",
+    "description": "Compact mobile hotspot for secure internet access while traveling."
+  },
+  {
+    "id": 69,
+    "name": "USB Digital Microscope",
+    "price": 42500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget69.jpg",
+    "description": "High-magnification microscope for hobby, education, and inspection."
+  },
+  {
+    "id": 70,
+    "name": "Smart Electric Lunch Box",
+    "price": 35500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget70.jpg",
+    "description": "Portable lunch box with built-in food warming function."
+  },
+  {
+    "id": 71,
+    "name": "Digital Smart Safe Box",
+    "price": 98500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget71.jpg",
+    "description": "Electronic safe with keypad access for valuables and important documents."
+  },
+  {
+    "id": 72,
+    "name": "AI Smart Writing Pen",
+    "price": 62500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget72.jpg",
+    "description": "Digital pen that records handwritten notes and syncs them to mobile devices."
+  },
+  {
+    "id": 73,
+    "name": "Smart Desktop Organizer",
+    "price": 27500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget73.jpg",
+    "description": "Multi-functional organizer with wireless charging and USB ports."
+  },
+  {
+    "id": 74,
+    "name": "Portable UV Sterilizer Box",
+    "price": 32500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget74.jpg",
+    "description": "UV sterilization box for phones, earbuds, watches, and other small items."
+  },
+  {
+    "id": 75,
+    "name": "Premium Smart Tech Bundle",
+    "price": 289500,
+    "category": "Smart Gadgets",
+    "image": "smart-gadget75.jpg",
+    "description": "Premium collection of innovative smart gadgets for work, travel, entertainment, and home use."
+  },
+  {
+    "id": 76,
+    "name": "40000mAh Fast Charging Power Bank",
+    "price": 89500,
+    "category": "Power Banks",
+    "image": "powerbank76.jpg",
+    "description": "High-capacity 40000mAh power bank with PD 65W fast charging and LED display."
+  },
+  {
+    "id": 77,
+    "name": "MagSafe Wireless Power Bank",
+    "price": 52500,
+    "category": "Power Banks",
+    "image": "powerbank77.jpg",
+    "description": "Magnetic wireless power bank with secure attachment and 15W wireless charging."
+  },
+  {
+    "id": 78,
+    "name": "10000mAh Pocket Power Bank Pro",
+    "price": 22500,
+    "category": "Power Banks",
+    "image": "powerbank78.jpg",
+    "description": "Slim portable charger with USB-C input/output and fast charging support."
+  },
+  {
+    "id": 79,
+    "name": "20000mAh LED Display Charger",
+    "price": 36500,
+    "category": "Power Banks",
+    "image": "powerbank79.jpg",
+    "description": "Portable charger with intelligent LED display and multiple charging ports."
+  },
+  {
+    "id": 80,
+    "name": "30000mAh Ultra Power Bank",
+    "price": 58500,
+    "category": "Power Banks",
+    "image": "powerbank80.jpg",
+    "description": "Ultra-capacity power bank suitable for smartphones, tablets, and cameras."
+  },
+  {
+    "id": 81,
+    "name": "Slim Aluminum Power Bank",
+    "price": 29500,
+    "category": "Power Banks",
+    "image": "powerbank81.jpg",
+    "description": "Premium aluminum portable charger with elegant design and fast charging."
+  },
+  {
+    "id": 82,
+    "name": "Solar Adventure Power Bank",
+    "price": 49500,
+    "category": "Power Banks",
+    "image": "powerbank82.jpg",
+    "description": "Solar-assisted power bank featuring flashlight, compass, and rugged build."
+  },
+  {
+    "id": 83,
+    "name": "Laptop USB-C Power Bank 100W",
+    "price": 128000,
+    "category": "Power Banks",
+    "image": "powerbank83.jpg",
+    "description": "100W USB-C PD power bank designed for laptops, tablets, and smartphones."
+  },
+  {
+    "id": 84,
+    "name": "Mini Emergency Power Bank",
+    "price": 14500,
+    "category": "Power Banks",
+    "image": "powerbank84.jpg",
+    "description": "Compact emergency charger perfect for everyday carry."
+  },
+  {
+    "id": 85,
+    "name": "Wireless Charging Power Bank Max",
+    "price": 62500,
+    "category": "Power Banks",
+    "image": "powerbank85.jpg",
+    "description": "Premium wireless charging power bank with USB-C PD support."
+  },
+  {
+    "id": 86,
+    "name": "50000mAh Heavy Duty Power Bank",
+    "price": 165000,
+    "category": "Power Banks",
+    "image": "powerbank86.jpg",
+    "description": "Heavy-duty portable charger with enormous capacity for long trips."
+  },
+  {
+    "id": 87,
+    "name": "Digital Smart Power Bank",
+    "price": 43500,
+    "category": "Power Banks",
+    "image": "powerbank87.jpg",
+    "description": "Smart power bank with intelligent chip protection and battery monitoring."
+  },
+  {
+    "id": 88,
+    "name": "Business Executive Power Bank",
+    "price": 68500,
+    "category": "Power Banks",
+    "image": "powerbank88.jpg",
+    "description": "Executive-style portable charger with premium leather finish."
+  },
+  {
+    "id": 89,
+    "name": "Travel Charging Station",
+    "price": 78500,
+    "category": "Power Banks",
+    "image": "powerbank89.jpg",
+    "description": "Portable charging station with power bank, adapters, and travel accessories."
+  },
+  {
+    "id": 90,
+    "name": "Quick Charge Battery Pack",
+    "price": 39500,
+    "category": "Power Banks",
+    "image": "powerbank90.jpg",
+    "description": "Fast-charging battery pack with dual USB outputs and USB-C port."
+  },
+  {
+    "id": 91,
+    "name": "Premium Pocket Charger",
+    "price": 25500,
+    "category": "Power Banks",
+    "image": "powerbank91.jpg",
+    "description": "Pocket-sized charger with premium finish and rapid charging support."
+  },
+  {
+    "id": 92,
+    "name": "USB-C PD Fast Charger",
+    "price": 54500,
+    "category": "Power Banks",
+    "image": "powerbank92.jpg",
+    "description": "Power Delivery charger with high-speed charging for modern devices."
+  },
+  {
+    "id": 93,
+    "name": "Power Bank Travel Bundle",
+    "price": 89500,
+    "category": "Power Banks",
+    "image": "powerbank93.jpg",
+    "description": "Complete travel bundle with power bank, wall charger, cables, and carrying case."
+  },
+  {
+    "id": 94,
+    "name": "Premium Charging Kit",
+    "price": 112000,
+    "category": "Power Banks",
+    "image": "powerbank94.jpg",
+    "description": "Charging kit featuring high-capacity power bank and premium accessories."
+  },
+  {
+    "id": 95,
+    "name": "Professional Power Station",
+    "price": 185000,
+    "category": "Power Banks",
+    "image": "powerbank95.jpg",
+    "description": "Professional portable power station with multiple outputs and rapid charging."
+  },
+  {
+    "id": 96,
+    "name": "Luxury Wireless Power Bank",
+    "price": 76500,
+    "category": "Power Banks",
+    "image": "powerbank96.jpg",
+    "description": "Luxury wireless charging power bank with aluminum body and premium finish."
+  },
+  {
+    "id": 97,
+    "name": "Ultimate Business Charging Bundle",
+    "price": 148000,
+    "category": "Power Banks",
+    "image": "powerbank97.jpg",
+    "description": "Executive charging bundle with power bank, premium cables, and travel organizer."
+  },
+  {
+    "id": 98,
+    "name": "Ultimate Travel Power Bundle",
+    "price": 198000,
+    "category": "Power Banks",
+    "image": "powerbank98.jpg",
+    "description": "Complete travel charging solution for laptops, phones, tablets, and accessories."
+  },
+  {
+    "id": 99,
+    "name": "Professional Charging Collection",
+    "price": 235000,
+    "category": "Power Banks",
+    "image": "powerbank99.jpg",
+    "description": "Premium collection featuring high-capacity charging solutions and accessories."
+  },
+  {
+    "id": 100,
+    "name": "Ultimate Power Bank Collection",
+    "price": 285000,
+    "category": "Power Banks",
+    "image": "powerbank100.jpg",
+    "description": "Luxury all-in-one charging collection with flagship power bank and premium travel accessories."
+  }
+
+]
+}

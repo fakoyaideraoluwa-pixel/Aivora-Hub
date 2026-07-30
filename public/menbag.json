@@ -1,0 +1,324 @@
+{
+    "menbags":[
+  {
+    "id": 1,
+    "name": "Leather Laptop Backpack",
+    "price": 68500,
+    "category": "Men's Bags",
+    "image": "mens-bag1.jpg",
+    "description": "Premium leather backpack with a padded 15.6-inch laptop compartment."
+  },
+  {
+    "id": 2,
+    "name": "Canvas Backpack",
+    "price": 38500,
+    "category": "Men's Bags",
+    "image": "mens-bag2.jpg",
+    "description": "Durable canvas backpack for school, work, or travel."
+  },
+  {
+    "id": 3,
+    "name": "Business Briefcase",
+    "price": 72000,
+    "category": "Men's Bags",
+    "image": "mens-bag3.jpg",
+    "description": "Professional leather briefcase with multiple document compartments."
+  },
+  {
+    "id": 4,
+    "name": "Messenger Bag",
+    "price": 44500,
+    "category": "Men's Bags",
+    "image": "mens-bag4.jpg",
+    "description": "Adjustable crossbody messenger bag for everyday essentials."
+  },
+  {
+    "id": 5,
+    "name": "Slim Laptop Bag",
+    "price": 41500,
+    "category": "Men's Bags",
+    "image": "mens-bag5.jpg",
+    "description": "Lightweight laptop bag with padded protection."
+  },
+  {
+    "id": 6,
+    "name": "Travel Duffel Bag",
+    "price": 56500,
+    "category": "Men's Bags",
+    "image": "mens-bag6.jpg",
+    "description": "Spacious duffel bag suitable for weekend trips and gym use."
+  },
+  {
+    "id": 7,
+    "name": "Gym Sports Bag",
+    "price": 34500,
+    "category": "Men's Bags",
+    "image": "mens-bag7.jpg",
+    "description": "Large-capacity gym bag with a dedicated shoe compartment."
+  },
+  {
+    "id": 8,
+    "name": "Leather Crossbody Bag",
+    "price": 39500,
+    "category": "Men's Bags",
+    "image": "mens-bag8.jpg",
+    "description": "Compact leather crossbody bag for daily use."
+  },
+  {
+    "id": 9,
+    "name": "Chest Sling Bag",
+    "price": 28500,
+    "category": "Men's Bags",
+    "image": "mens-bag9.jpg",
+    "description": "Modern anti-theft sling bag with USB charging port."
+  },
+  {
+    "id": 10,
+    "name": "Waist Bag",
+    "price": 19500,
+    "category": "Men's Bags",
+    "image": "mens-bag10.jpg",
+    "description": "Compact waist bag for carrying essentials securely."
+  },
+  {
+    "id": 11,
+    "name": "Leather Tote Bag",
+    "price": 62500,
+    "category": "Men's Bags",
+    "image": "mens-bag11.jpg",
+    "description": "Elegant leather tote with spacious interior."
+  },
+  {
+    "id": 12,
+    "name": "Roll-Top Backpack",
+    "price": 49500,
+    "category": "Men's Bags",
+    "image": "mens-bag12.jpg",
+    "description": "Water-resistant roll-top backpack with expandable storage."
+  },
+  {
+    "id": 13,
+    "name": "Vintage Canvas Satchel",
+    "price": 36500,
+    "category": "Men's Bags",
+    "image": "mens-bag13.jpg",
+    "description": "Classic satchel bag with vintage-inspired design."
+  },
+  {
+    "id": 14,
+    "name": "Waterproof Backpack",
+    "price": 47500,
+    "category": "Men's Bags",
+    "image": "mens-bag14.jpg",
+    "description": "Waterproof backpack ideal for commuting and outdoor adventures."
+  },
+  {
+    "id": 15,
+    "name": "Travel Backpack",
+    "price": 58500,
+    "category": "Men's Bags",
+    "image": "mens-bag15.jpg",
+    "description": "Airline-friendly backpack with multiple compartments."
+  },
+  {
+    "id": 16,
+    "name": "Camera Backpack",
+    "price": 73500,
+    "category": "Men's Bags",
+    "image": "mens-bag16.jpg",
+    "description": "Padded camera backpack with customizable dividers."
+  },
+  {
+    "id": 17,
+    "name": "Laptop Messenger Bag",
+    "price": 46500,
+    "category": "Men's Bags",
+    "image": "mens-bag17.jpg",
+    "description": "Messenger bag with padded laptop sleeve and organizer pockets."
+  },
+  {
+    "id": 18,
+    "name": "Convertible Backpack",
+    "price": 61500,
+    "category": "Men's Bags",
+    "image": "mens-bag18.jpg",
+    "description": "Transforms from a backpack into a briefcase."
+  },
+  {
+    "id": 19,
+    "name": "Leather Weekender Bag",
+    "price": 92500,
+    "category": "Men's Bags",
+    "image": "mens-bag19.jpg",
+    "description": "Luxury leather travel bag for weekend getaways."
+  },
+  {
+    "id": 20,
+    "name": "Mini Crossbody Bag",
+    "price": 22500,
+    "category": "Men's Bags",
+    "image": "mens-bag20.jpg",
+    "description": "Compact crossbody bag for phone, wallet, and keys."
+  },
+  {
+    "id": 21,
+    "name": "Anti-Theft Backpack",
+    "price": 54500,
+    "category": "Men's Bags",
+    "image": "mens-bag21.jpg",
+    "description": "Secure backpack with hidden zippers and RFID protection."
+  },
+  {
+    "id": 22,
+    "name": "Leather Portfolio Bag",
+    "price": 48500,
+    "category": "Men's Bags",
+    "image": "mens-bag22.jpg",
+    "description": "Professional portfolio bag for documents and tablets."
+  },
+  {
+    "id": 23,
+    "name": "Drawstring Sports Bag",
+    "price": 14500,
+    "category": "Men's Bags",
+    "image": "mens-bag23.jpg",
+    "description": "Lightweight drawstring bag for sports and casual outings."
+  },
+  {
+    "id": 24,
+    "name": "Hiking Backpack",
+    "price": 65500,
+    "category": "Men's Bags",
+    "image": "mens-bag24.jpg",
+    "description": "40L hiking backpack with ergonomic shoulder straps."
+  },
+  {
+    "id": 25,
+    "name": "Leather Document Bag",
+    "price": 44500,
+    "category": "Men's Bags",
+    "image": "mens-bag25.jpg",
+    "description": "Stylish leather document bag with multiple organizational pockets."
+  },
+  {
+    "id": 26,
+    "name": "Executive Leather Briefcase",
+    "price": 78500,
+    "category": "Men's Bags",
+    "image": "mens-bag26.jpg",
+    "description": "Premium executive leather briefcase with multiple document compartments."
+  },
+  {
+    "id": 27,
+    "name": "Canvas Messenger Bag",
+    "price": 36500,
+    "category": "Men's Bags",
+    "image": "mens-bag27.jpg",
+    "description": "Durable canvas messenger bag for work, school, and travel."
+  },
+  {
+    "id": 28,
+    "name": "Military Tactical Backpack",
+    "price": 68500,
+    "category": "Men's Bags",
+    "image": "mens-bag28.jpg",
+    "description": "Heavy-duty tactical backpack with MOLLE webbing system."
+  },
+  {
+    "id": 29,
+    "name": "USB Charging Backpack",
+    "price": 49500,
+    "category": "Men's Bags",
+    "image": "mens-bag29.jpg",
+    "description": "Smart backpack featuring an external USB charging port."
+  },
+  {
+    "id": 30,
+    "name": "Travel Carry-On Backpack",
+    "price": 63500,
+    "category": "Men's Bags",
+    "image": "mens-bag30.jpg",
+    "description": "Expandable travel backpack designed for airline cabin luggage."
+  },
+  {
+    "id": 31,
+    "name": "Leather Sling Bag",
+    "price": 35500,
+    "category": "Men's Bags",
+    "image": "mens-bag31.jpg",
+    "description": "Compact leather sling bag with adjustable shoulder strap."
+  },
+  {
+    "id": 32,
+    "name": "Waterproof Dry Bag",
+    "price": 28500,
+    "category": "Men's Bags",
+    "image": "mens-bag32.jpg",
+    "description": "Keeps belongings dry during kayaking, camping, and outdoor adventures."
+  },
+  {
+    "id": 33,
+    "name": "Leather Travel Duffel",
+    "price": 98500,
+    "category": "Men's Bags",
+    "image": "mens-bag33.jpg",
+    "description": "Luxury leather duffel bag perfect for business trips."
+  },
+  {
+    "id": 34,
+    "name": "Foldable Travel Bag",
+    "price": 22500,
+    "category": "Men's Bags",
+    "image": "mens-bag34.jpg",
+    "description": "Lightweight foldable bag that packs into its own pouch."
+  },
+  {
+    "id": 35,
+    "name": "Laptop Sleeve Bag",
+    "price": 29500,
+    "category": "Men's Bags",
+    "image": "mens-bag35.jpg",
+    "description": "Padded sleeve bag for laptops up to 15.6 inches."
+  },
+  {
+    "id": 36,
+    "name": "Leather Waist Bag",
+    "price": 32500,
+    "category": "Men's Bags",
+    "image": "mens-bag36.jpg",
+    "description": "Premium leather waist bag with secure zip compartments."
+  },
+  {
+    "id": 37,
+    "name": "Cycling Backpack",
+    "price": 38500,
+    "category": "Men's Bags",
+    "image": "mens-bag37.jpg",
+    "description": "Aerodynamic backpack with hydration bladder compatibility."
+  },
+  {
+    "id": 38,
+    "name": "Expandable Gym Bag",
+    "price": 43500,
+    "category": "Men's Bags",
+    "image": "mens-bag38.jpg",
+    "description": "Sports bag with expandable storage and wet compartment."
+  },
+  {
+    "id": 39,
+    "name": "Vintage Leather Satchel",
+    "price": 57500,
+    "category": "Men's Bags",
+    "image": "mens-bag39.jpg",
+    "description": "Classic satchel made from premium genuine leather."
+  },
+  {
+    "id": 40,
+    "name": "Anti-Theft Sling Backpack",
+    "price": 34500,
+    "category": "Men's Bags",
+    "image": "mens-bag40.jpg",
+    "description": "Single-strap anti-theft backpack with hidden zipper pockets."
+  }
+]
+}

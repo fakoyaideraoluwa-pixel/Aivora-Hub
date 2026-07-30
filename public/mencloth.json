@@ -1,0 +1,380 @@
+{
+    "menclothes":[
+        
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "category": "T-Shirts",
+    "brand": "Urban Wear",
+    "price":24.99,
+    "size": ["S", "M", "L", "XL"],
+    "color": "White",
+    "material": "100% Cotton",
+    "stock": 45,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/097991/1.jpg?3708"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Black Jeans",
+    "category": "Jeans",
+    "brand": "Denim Co",
+    "price":49.99,
+    "size": ["30", "32", "34", "36"],
+    "color": "Black",
+    "material": "Denim",
+    "stock": 28,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/4332914/1.jpg?3522"
+  },
+  {
+    "id": 3,
+    "name": " Polo Shirt",
+    "category": "Polo",
+    "brand": "Elite Style",
+    "price":34.99,
+    "size": ["M", "L", "XL"],
+    "color": "Navy Blue",
+    "material": "Cotton",
+    "stock": 35,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/8602372/1.jpg?5427"
+  },
+  
+  {
+    "id": 4,
+    "name": "V-Neck T-Shirt",
+    "category": "T-Shirts",
+    "brand": "H&M",
+    "price": 19.99,
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 40,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/6261014/1.jpg?5530"
+  },
+  {
+    "id": 5,
+    "name": "Crew Neck T-Shirt",
+    "category": "T-Shirts",
+    "brand": "Nike",
+    "price": 21.99,
+    "color": "White",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 35,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/9683914/1.jpg?9926"
+  },
+  {
+    "id": 6,
+    "name": "Long Sleeve T-Shirt",
+    "category": "T-Shirts",
+    "brand": "Adidas",
+    "price": 24.99,
+    "color": "Navy",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 30,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/1661172/1.jpg?5577"
+  },
+  {
+    "id": 7,
+    "name": "Tank Top",
+    "category": "Tops",
+    "brand": "Puma",
+    "price": 17.99,
+    "color": "Grey",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 45,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/8021622/1.jpg?6024"
+  },
+  {
+    "id": 8,
+    "name": "Dress Shirt",
+    "category": "Shirts",
+    "brand": "Calvin Klein",
+    "price": 49.99,
+    "color": "White",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 20,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/5894814/1.jpg?6106"
+  },
+  {
+    "id": 9,
+    "name": "Oxford Shirt",
+    "category": "Shirts",
+    "brand": "Ralph Lauren",
+    "price": 54.99,
+    "color": "Light Blue",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 18,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/7810993/1.jpg?1689"
+  },
+  {
+    "id": 10,
+    "name": "Flannel Shirt",
+    "category": "Shirts",
+    "brand": "Levi's",
+    "price": 44.99,
+    "color": "Red Plaid",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 22,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/018594/1.jpg?4079"
+  },
+  {
+    "id": 11,
+    "name": "Denim Shirt",
+    "category": "Shirts",
+    "brand": "Wrangler",
+    "price": 46.99,
+    "color": "Blue",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 19,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/74095/1.jpg?0690"
+  },
+  {
+    "id": 13,
+    "name": "Chambray Shirt",
+    "category": "Shirts",
+    "brand": "Gap",
+    "price": 39.99,
+    "color": "Sky Blue",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 20,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/770396/1.jpg?8672"
+  },
+  {
+    "id": 15,
+    "name": "Cuban Collar Shirt",
+    "category": "Shirts",
+    "brand": "ASOS",
+    "price": 37.99,
+    "color": "Cream",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 25,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/1822553/1.jpg?2416"
+  },
+  {
+    "id": 19,
+    "name": "Sweatshirt",
+    "category": "Sweatshirts",
+    "brand": "Champion",
+    "price": 49.99,
+    "color": "Grey",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 28,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/8760393/1.jpg?2243"
+  },
+  {
+    "id": 20,
+    "name": "Hoodie",
+    "category": "Hoodies",
+    "brand": "Nike",
+    "price": 59.99,
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 26,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/8562852/1.jpg?8189"
+  },
+   {
+    "id": 21,
+    "name": "Zip Hoodie",
+    "category": "Hoodies",
+    "brand": "Nike",
+    "price":59.99,
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 35,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/8920283/1.jpg?6024"
+  },
+  {
+    "id": 22,
+    "name": "Pullover Hoodie",
+    "category": "Hoodies",
+    "brand": "Adidas",
+    "price":54.99,
+    "color": "Grey",
+    "size": ["M", "L", "XL"],
+    "stock": 40,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/7294922/1.jpg?5359"
+  },
+
+  {
+    "id": 25,
+    "name": "Turtleneck Sweater",
+    "category": "Sweaters",
+    "brand": "Uniqlo",
+    "price":44.99,
+    "color": "Cream",
+    "size": ["S", "M", "L"],
+    "stock": 26,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/650209/1.jpg?8963"
+  },
+  {
+    "id": 26,
+    "name": "V-Neck Sweater",
+    "category": "Sweaters",
+    "brand": "Gap",
+    "price":42.99,
+    "color": "Dark Green",
+    "size": ["M", "L", "XL"],
+    "stock": 18,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/0666914/1.jpg?3020"
+  },
+  {
+    "id": 28,
+    "name": "Suit Jacket",
+    "category": "Formal Wear",
+    "brand": "Hugo Boss",
+    "price":199.99,
+    "color": "Black",
+    "size": ["40", "42", "44"],
+    "stock": 10,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/0377814/1.jpg?8396"
+  },
+  {
+    "id": 29,
+    "name": "Waistcoat",
+    "category": "Formal Wear",
+    "brand": "Next",
+    "price":69.99,
+    "color": "Grey",
+    "size": ["M", "L", "XL"],
+    "stock": 15,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/6335914/1.jpg?6143"
+  },
+  {
+    "id": 30,
+    "name": "Suit",
+    "category": "Formal Wear",
+    "brand": "Armani",
+    "price":399.99,
+    "color": "Navy",
+    "size": ["40", "42", "44", "46"],
+    "stock": 8,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/1377814/1.jpg?1583"
+  },
+  {
+    "id": 32,
+    "name": "Denim Jacket",
+    "category": "Jackets",
+    "brand": "Levi's",
+    "price":99.99,
+    "color": "Blue",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 22,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/4600173/1.jpg?9826"
+  },
+  {
+    "id": 48,
+    "name": "Cargo Pants",
+    "category": "Pants",
+    "brand": "Wrangler",
+    "price":59.99,
+    "color": "Olive",
+    "size": ["30", "32", "34", "36"],
+    "stock": 27,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/1943914/1.jpg?1528"
+  },
+  {
+    "id": 49,
+    "name": "Jeans",
+    "category": "Pants",
+    "brand": "Levi's",
+    "price":69.99,
+    "color": "Dark Blue",
+    "size": ["30", "32", "34", "36"],
+    "stock": 45,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/9094652/1.jpg?1869"
+  },
+  {
+    "id": 54,
+    "name": "Joggers",
+    "category": "Sportswear",
+    "brand": "Nike",
+    "price":49.99,
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 40,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/253567/1.jpg?3783"
+  },
+  {
+    "id": 58,
+    "name": "Corduroy Pants",
+    "category": "Pants",
+    "brand": "H&M",
+    "price":59.99,
+    "color": "Brown",
+    "size": ["30", "32", "34", "36"],
+    "stock": 18,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/3086304/1.jpg?7225"
+  },
+  {
+    "id": 61,
+    "name": "Wide-Leg Pants",
+    "category": "Pants",
+    "brand": "COS",
+    "price":69.99,
+    "color": "Charcoal",
+    "size": ["30", "32", "34", "36"],
+    "stock": 15,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/3103914/1.jpg?1284"
+  },
+  {
+    "id": 71,
+    "name": "Boxer Shorts",
+    "category": "Underwear",
+    "brand": "Calvin Klein",
+    "price":24.99,
+    "color": "White",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 60,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/5247813/1.jpg?6676"
+  },
+  {
+    "id": 76,
+    "name": "Thermal Underwear",
+    "category": "Underwear",
+    "brand": "Uniqlo",
+    "price":39.99,
+    "color": "Grey",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 19,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/8657363/1.jpg?5627"
+  },
+  {
+    "id": 78,
+    "name": "Pajama Set",
+    "category": "Sleepwear",
+    "brand": "H&M",
+    "price":49.99,
+    "color": "Blue",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 26,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/1326362/1.jpg?4526"
+  },
+  {
+    "id": 80,
+    "name": "Robe",
+    "category": "Sleepwear",
+    "brand": "Ralph Lauren",
+    "price":59.99,
+    "color": "White",
+    "size": ["M", "L", "XL"],
+    "stock": 16,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/762754/1.jpg?2487"
+  },
+  {
+    "id": 81,
+    "name": "Tracksuit",
+    "category": "Sportswear",
+    "brand": "Nike",
+    "price":89.99,
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "stock": 20,
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/3671752/1.jpg?5889"
+  }
+ 
+
+
+
+
+
+]
+    
+}

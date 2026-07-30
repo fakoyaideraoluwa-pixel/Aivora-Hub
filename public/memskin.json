@@ -1,0 +1,325 @@
+{
+    "menskincare":[
+  {
+    "id": 1,
+    "name": "Hydrating Face Cleanser",
+    "price": 8500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare1.jpg",
+    "description": "Gentle daily facial cleanser that removes dirt, oil, and impurities without drying the skin."
+  },
+  {
+    "id": 2,
+    "name": "Oil Control Face Wash",
+    "price": 9200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare2.jpg",
+    "description": "Deep-cleansing face wash formulated to reduce excess oil and leave skin feeling refreshed."
+  },
+  {
+    "id": 3,
+    "name": "Charcoal Detox Cleanser",
+    "price": 9800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare3.jpg",
+    "description": "Activated charcoal cleanser that helps lift away dirt and impurities."
+  },
+  {
+    "id": 4,
+    "name": "Vitamin C Face Wash",
+    "price": 10500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare4.jpg",
+    "description": "Brightening face wash enriched with Vitamin C for a refreshed complexion."
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera Facial Cleanser",
+    "price": 8900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare5.jpg",
+    "description": "Soothing aloe vera cleanser suitable for daily skincare routines."
+  },
+  {
+    "id": 6,
+    "name": "Foaming Face Cleanser",
+    "price": 9400,
+    "category": "Men's Skincare",
+    "image": "mens-skincare6.jpg",
+    "description": "Rich foaming cleanser that removes dirt while keeping skin comfortable."
+  },
+  {
+    "id": 7,
+    "name": "Cooling Face Wash",
+    "price": 9600,
+    "category": "Men's Skincare",
+    "image": "mens-skincare7.jpg",
+    "description": "Cooling facial cleanser that leaves skin feeling fresh and energized."
+  },
+  {
+    "id": 8,
+    "name": "Daily Facial Scrub",
+    "price": 11200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare8.jpg",
+    "description": "Gentle exfoliating scrub that removes dead skin cells for smoother skin."
+  },
+  {
+    "id": 9,
+    "name": "Coffee Face Scrub",
+    "price": 11800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare9.jpg",
+    "description": "Coffee-infused facial scrub that revitalizes dull-looking skin."
+  },
+  {
+    "id": 10,
+    "name": "Walnut Exfoliating Scrub",
+    "price": 12400,
+    "category": "Men's Skincare",
+    "image": "mens-skincare10.jpg",
+    "description": "Natural walnut exfoliating scrub for smoother, cleaner-looking skin."
+  },
+  {
+    "id": 11,
+    "name": "Hydrating Face Moisturizer",
+    "price": 13500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare11.jpg",
+    "description": "Lightweight moisturizer that provides long-lasting hydration."
+  },
+  {
+    "id": 12,
+    "name": "Oil-Free Face Moisturizer",
+    "price": 13900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare12.jpg",
+    "description": "Fast-absorbing moisturizer designed for oily and combination skin."
+  },
+  {
+    "id": 13,
+    "name": "Vitamin E Moisturizing Cream",
+    "price": 14500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare13.jpg",
+    "description": "Vitamin E enriched cream that helps maintain soft and healthy-looking skin."
+  },
+  {
+    "id": 14,
+    "name": "Daily Hydration Gel",
+    "price": 12900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare14.jpg",
+    "description": "Cooling hydration gel with a lightweight, non-greasy finish."
+  },
+  {
+    "id": 15,
+    "name": "Anti-Shine Moisturizer",
+    "price": 14800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare15.jpg",
+    "description": "Helps reduce shine while keeping skin hydrated throughout the day."
+  },
+  {
+    "id": 16,
+    "name": "Refreshing Facial Toner",
+    "price": 9900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare16.jpg",
+    "description": "Alcohol-free facial toner that refreshes and balances the skin."
+  },
+  {
+    "id": 17,
+    "name": "Witch Hazel Toner",
+    "price": 10800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare17.jpg",
+    "description": "Refreshing toner formulated with witch hazel for daily use."
+  },
+  {
+    "id": 18,
+    "name": "Hydrating Facial Mist",
+    "price": 10200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare18.jpg",
+    "description": "Instant hydration mist that refreshes the skin anytime."
+  },
+  {
+    "id": 19,
+    "name": "Vitamin C Face Serum",
+    "price": 18500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare19.jpg",
+    "description": "Lightweight facial serum formulated with Vitamin C for brighter-looking skin."
+  },
+  {
+    "id": 20,
+    "name": "Hyaluronic Acid Serum",
+    "price": 19200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare20.jpg",
+    "description": "Hydrating serum that helps skin retain moisture."
+  },
+  {
+    "id": 21,
+    "name": "Niacinamide Face Serum",
+    "price": 19800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare21.jpg",
+    "description": "Daily facial serum formulated to improve overall skin appearance."
+  },
+  {
+    "id": 22,
+    "name": "Brightening Face Mask",
+    "price": 11800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare22.jpg",
+    "description": "Cream face mask that refreshes and brightens tired-looking skin."
+  },
+  {
+    "id": 23,
+    "name": "Charcoal Peel-Off Mask",
+    "price": 12600,
+    "category": "Men's Skincare",
+    "image": "mens-skincare23.jpg",
+    "description": "Charcoal peel-off mask that helps remove surface impurities."
+  },
+  {
+    "id": 24,
+    "name": "Hydrating Sheet Mask Set",
+    "price": 13200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare24.jpg",
+    "description": "Pack of hydrating sheet masks for weekly skincare routines."
+  },
+  {
+    "id": 25,
+    "name": "Complete Men's Skincare Starter Kit",
+    "price": 38500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare25.jpg",
+    "description": "Complete skincare kit including cleanser, scrub, toner, moisturizer, serum, and face mask."
+  },
+  {
+    "id": 26,
+    "name": "Deep Pore Face Cleanser",
+    "price": 9500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare26.jpg",
+    "description": "Deep-cleansing facial wash that helps remove excess oil, dirt, and daily impurities."
+  },
+  {
+    "id": 27,
+    "name": "Green Tea Face Wash",
+    "price": 9800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare27.jpg",
+    "description": "Refreshing green tea facial cleanser suitable for everyday skincare."
+  },
+  {
+    "id": 28,
+    "name": "Tea Tree Acne Face Wash",
+    "price": 11200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare28.jpg",
+    "description": "Tea tree facial cleanser designed for oily and blemish-prone skin."
+  },
+  {
+    "id": 29,
+    "name": "Sensitive Skin Face Wash",
+    "price": 10500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare29.jpg",
+    "description": "Gentle facial cleanser formulated for sensitive skin."
+  },
+  {
+    "id": 30,
+    "name": "Hydrating Aloe Face Gel",
+    "price": 11800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare30.jpg",
+    "description": "Lightweight aloe gel that helps keep skin hydrated and refreshed."
+  },
+  {
+    "id": 31,
+    "name": "Daily Face Lotion",
+    "price": 12900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare31.jpg",
+    "description": "Non-greasy daily facial lotion with long-lasting hydration."
+  },
+  {
+    "id": 32,
+    "name": "SPF 30 Daily Moisturizer",
+    "price": 16800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare32.jpg",
+    "description": "Moisturizer with SPF 30 that hydrates while helping protect against UV exposure."
+  },
+  {
+    "id": 33,
+    "name": "Matte Finish Face Cream",
+    "price": 14500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare33.jpg",
+    "description": "Face cream that leaves skin hydrated with a shine-free finish."
+  },
+  {
+    "id": 34,
+    "name": "Vitamin B5 Moisturizer",
+    "price": 15200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare34.jpg",
+    "description": "Daily moisturizer enriched with Vitamin B5 for smooth-looking skin."
+  },
+  {
+    "id": 35,
+    "name": "Collagen Face Cream",
+    "price": 17800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare35.jpg",
+    "description": "Nourishing face cream formulated to improve skin hydration and texture."
+  },
+  {
+    "id": 36,
+    "name": "Caffeine Eye Cream",
+    "price": 15500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare36.jpg",
+    "description": "Cooling eye cream with caffeine for a refreshed appearance."
+  },
+  {
+    "id": 37,
+    "name": "Hydrating Eye Gel",
+    "price": 14800,
+    "category": "Men's Skincare",
+    "image": "mens-skincare37.jpg",
+    "description": "Lightweight eye gel that provides cooling hydration."
+  },
+  {
+    "id": 38,
+    "name": "Brightening Eye Serum",
+    "price": 18900,
+    "category": "Men's Skincare",
+    "image": "mens-skincare38.jpg",
+    "description": "Facial eye serum designed to brighten the under-eye area."
+  },
+  {
+    "id": 39,
+    "name": "Revitalizing Night Cream",
+    "price": 19500,
+    "category": "Men's Skincare",
+    "image": "mens-skincare39.jpg",
+    "description": "Night cream that deeply moisturizes while you sleep."
+  },
+  {
+    "id": 40,
+    "name": "Overnight Recovery Gel",
+    "price": 18200,
+    "category": "Men's Skincare",
+    "image": "mens-skincare40.jpg",
+    "description": "Hydrating overnight gel that leaves skin feeling refreshed by morning."
+  }
+
+]
+}

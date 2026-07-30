@@ -1,0 +1,324 @@
+{
+    "menshoes":[
+  {
+    "id": 1,
+    "name": "Classic Leather Oxford Shoes",
+    "price": 45000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes1.jpg",
+    "description": "Premium leather Oxford shoes perfect for business and formal occasions."
+  },
+  {
+    "id": 2,
+    "name": "Black Derby Shoes",
+    "price": 42000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes2.jpg",
+    "description": "Elegant Derby shoes with a comfortable cushioned insole."
+  },
+  {
+    "id": 3,
+    "name": "Brown Leather Loafers",
+    "price": 36000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes3.jpg",
+    "description": "Slip-on leather loafers designed for everyday comfort."
+  },
+  {
+    "id": 4,
+    "name": "White Casual Sneakers",
+    "price": 38000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes4.jpg",
+    "description": "Minimalist sneakers suitable for casual outfits."
+  },
+  {
+    "id": 5,
+    "name": "Running Sneakers",
+    "price": 41000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes5.jpg",
+    "description": "Lightweight running shoes with breathable mesh upper."
+  },
+  {
+    "id": 6,
+    "name": "High-Top Sneakers",
+    "price": 44000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes6.jpg",
+    "description": "Stylish high-top sneakers with durable rubber sole."
+  },
+  {
+    "id": 7,
+    "name": "Canvas Lace-Up Shoes",
+    "price": 26000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes7.jpg",
+    "description": "Comfortable canvas shoes for daily casual wear."
+  },
+  {
+    "id": 8,
+    "name": "Leather Chelsea Boots",
+    "price": 58000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes8.jpg",
+    "description": "Premium Chelsea boots with elastic side panels."
+  },
+  {
+    "id": 9,
+    "name": "Desert Boots",
+    "price": 49000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes9.jpg",
+    "description": "Classic suede desert boots with crepe sole."
+  },
+  {
+    "id": 10,
+    "name": "Work Safety Boots",
+    "price": 67000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes10.jpg",
+    "description": "Steel-toe safety boots for maximum workplace protection."
+  },
+  {
+    "id": 11,
+    "name": "Leather Monk Strap Shoes",
+    "price": 47000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes11.jpg",
+    "description": "Double monk strap shoes crafted from genuine leather."
+  },
+  {
+    "id": 12,
+    "name": "Slip-On Casual Shoes",
+    "price": 31000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes12.jpg",
+    "description": "Easy slip-on shoes with lightweight construction."
+  },
+  {
+    "id": 13,
+    "name": "Suede Loafers",
+    "price": 39000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes13.jpg",
+    "description": "Soft suede loafers with flexible rubber outsole."
+  },
+  {
+    "id": 14,
+    "name": "Tennis Shoes",
+    "price": 43000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes14.jpg",
+    "description": "Performance tennis shoes with superior grip."
+  },
+  {
+    "id": 15,
+    "name": "Basketball Sneakers",
+    "price": 62000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes15.jpg",
+    "description": "High-performance basketball shoes with ankle support."
+  },
+  {
+    "id": 16,
+    "name": "Training Shoes",
+    "price": 46000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes16.jpg",
+    "description": "Versatile training shoes for gym workouts."
+  },
+  {
+    "id": 17,
+    "name": "Hiking Boots",
+    "price": 72000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes17.jpg",
+    "description": "Water-resistant hiking boots with rugged outsole."
+  },
+  {
+    "id": 18,
+    "name": "Trail Running Shoes",
+    "price": 57000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes18.jpg",
+    "description": "Trail shoes with enhanced traction for rough terrain."
+  },
+  {
+    "id": 19,
+    "name": "Boat Shoes",
+    "price": 36000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes19.jpg",
+    "description": "Classic boat shoes made with genuine leather."
+  },
+  {
+    "id": 20,
+    "name": "Driving Moccasins",
+    "price": 34000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes20.jpg",
+    "description": "Comfortable driving shoes with flexible sole."
+  },
+  {
+    "id": 21,
+    "name": "Leather Sandals",
+    "price": 28000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes21.jpg",
+    "description": "Premium leather sandals for everyday comfort."
+  },
+  {
+    "id": 22,
+    "name": "Sport Sandals",
+    "price": 26000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes22.jpg",
+    "description": "Adjustable sport sandals with anti-slip sole."
+  },
+  {
+    "id": 23,
+    "name": "Rubber Slides",
+    "price": 18000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes23.jpg",
+    "description": "Comfortable waterproof slides for indoor and outdoor use."
+  },
+  {
+    "id": 24,
+    "name": "Luxury Leather Slippers",
+    "price": 32000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes24.jpg",
+    "description": "Elegant leather slippers with cushioned footbed."
+  },
+  {
+    "id": 25,
+    "name": "Espadrille Shoes",
+    "price": 29000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes25.jpg",
+    "description": "Lightweight espadrilles ideal for warm-weather casual wear."
+  },
+  {
+    "id": 26,
+    "name": "Wingtip Brogue Shoes",
+    "price": 49500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes26.jpg",
+    "description": "Classic leather wingtip brogues with decorative perforations."
+  },
+  {
+    "id": 27,
+    "name": "Cap Toe Oxford Shoes",
+    "price": 47000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes27.jpg",
+    "description": "Elegant cap toe Oxfords for weddings, business, and formal events."
+  },
+  {
+    "id": 28,
+    "name": "Wholecut Leather Shoes",
+    "price": 68000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes28.jpg",
+    "description": "Premium wholecut leather shoes crafted from a single piece of leather."
+  },
+  {
+    "id": 29,
+    "name": "Double Monk Shoes",
+    "price": 52000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes29.jpg",
+    "description": "Sophisticated double buckle monk strap shoes."
+  },
+  {
+    "id": 30,
+    "name": "Tassel Loafers",
+    "price": 39000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes30.jpg",
+    "description": "Stylish tassel loafers with soft leather lining."
+  },
+  {
+    "id": 31,
+    "name": "Penny Loafers",
+    "price": 37500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes31.jpg",
+    "description": "Timeless penny loafers suitable for business casual wear."
+  },
+  {
+    "id": 32,
+    "name": "Chunky Sneakers",
+    "price": 43500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes32.jpg",
+    "description": "Fashion-forward chunky sneakers with thick cushioned soles."
+  },
+  {
+    "id": 33,
+    "name": "Retro Running Shoes",
+    "price": 41500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes33.jpg",
+    "description": "Vintage-inspired running shoes for casual everyday use."
+  },
+  {
+    "id": 34,
+    "name": "Skate Shoes",
+    "price": 35500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes34.jpg",
+    "description": "Durable skate shoes with reinforced toe caps."
+  },
+  {
+    "id": 35,
+    "name": "Slip-On Sneakers",
+    "price": 33500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes35.jpg",
+    "description": "Comfortable slip-on sneakers with breathable fabric."
+  },
+  {
+    "id": 36,
+    "name": "Sock Sneakers",
+    "price": 46000,
+    "category": "Men's Shoes",
+    "image": "mens-shoes36.jpg",
+    "description": "Stretch-knit sneakers offering a snug sock-like fit."
+  },
+  {
+    "id": 37,
+    "name": "Cross Training Shoes",
+    "price": 48500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes37.jpg",
+    "description": "Designed for gym workouts, HIIT, and strength training."
+  },
+  {
+    "id": 38,
+    "name": "Walking Shoes",
+    "price": 34500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes38.jpg",
+    "description": "Lightweight walking shoes with excellent arch support."
+  },
+  {
+    "id": 39,
+    "name": "Golf Shoes",
+    "price": 75500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes39.jpg",
+    "description": "Water-resistant golf shoes with anti-slip traction."
+  },
+  {
+    "id": 40,
+    "name": "Football Boots",
+    "price": 58500,
+    "category": "Men's Shoes",
+    "image": "mens-shoes40.jpg",
+    "description": "Firm-ground football boots for speed and ball control."
+  }
+]
+}

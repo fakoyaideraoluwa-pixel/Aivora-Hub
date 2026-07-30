@@ -1,0 +1,574 @@
+.checkout {
+  min-height: 100vh;
+  background: #f7f7f7;
+  padding: 120px 40px 40px;
+  font-family: Arial, sans-serif;
+}
+
+
+
+/* HEADER */
+
+.checkoutHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+
+.checkoutHeader h1 {
+  font-size: 34px;
+  font-weight: 700;
+  color: #111;
+}
+
+
+
+.backBtn {
+  position: absolute;
+  /* left: 1px; */
+  background: #000;
+  color: white;
+  border: none;
+  padding: 12px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+/* MAIN AREA */
+
+
+.checkoutGrid {
+
+  max-width: 1300px;
+
+  margin: auto;
+
+  display: grid;
+
+  grid-template-columns: 1fr 420px;
+
+  gap: 30px;
+
+  align-items: start;
+
+}
+
+
+
+
+
+
+/* LEFT */
+
+
+.leftSide {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 20px;
+
+}
+
+
+
+
+
+
+/* CARD STYLE */
+
+
+.card,
+.summaryCard {
+
+  background:white;
+
+  border-radius:18px;
+
+  padding:25px;
+
+  box-shadow:
+  0 8px 25px rgba(0,0,0,0.08);
+  width: 100%;
+  min-height: 260px;
+}
+
+
+
+
+
+.card h3 {
+
+  font-size:20px;
+
+  margin-bottom:20px;
+
+}
+
+
+
+
+
+
+/* ADDRESS */
+
+
+.card p {
+
+  color:#666;
+
+  line-height:1.6;
+
+}
+
+
+
+.card h4 {
+
+  font-size:18px;
+
+}
+
+
+
+
+
+
+.smallBtn {
+
+ background:black;
+
+ color:white;
+
+ border:none;
+
+ padding:12px 20px;
+
+ border-radius:8px;
+
+ margin-top:15px;
+
+ cursor:pointer;
+
+}
+
+
+
+
+
+
+
+/* DELIVERY */
+
+
+.radioBox {
+
+ display:flex;
+
+ align-items:center;
+
+ gap:15px;
+
+ border:1px solid #ddd;
+
+ padding:18px;
+
+ border-radius:14px;
+
+ margin-bottom:15px;
+
+ transition:.3s;
+
+}
+
+
+
+.radioBox:hover {
+
+ border-color:black;
+
+ transform:translateY(-2px);
+
+}
+
+
+
+.radioBox input {
+
+ width:18px;
+
+ height:18px;
+
+}
+
+
+
+.radioBox div {
+
+ flex:1;
+
+}
+
+
+.radioBox p {
+
+ margin:5px 0;
+
+}
+
+
+
+
+
+
+
+/* COUPON */
+
+
+.coupon {
+
+ display:flex;
+
+ gap:10px;
+
+}
+
+
+.coupon input {
+
+ flex:1;
+
+ height:45px;
+
+ border:1px solid #ddd;
+
+ border-radius:8px;
+
+ padding:0 15px;
+
+}
+
+
+
+.coupon button {
+
+ background:black;
+
+ color:white;
+
+ border:none;
+
+ padding:0 25px;
+
+ border-radius:8px;
+
+}
+
+
+
+
+
+
+
+
+/* RIGHT SIDE */
+
+
+.rightSide {
+
+ position:sticky;
+
+ top:100px;
+
+}
+
+
+
+
+.summaryCard {
+
+ width:100%;
+
+}
+
+
+
+
+.checkoutItem {
+
+ display:flex;
+
+ align-items:center;
+
+ gap:15px;
+
+ padding-bottom:15px;
+
+ margin-bottom:15px;
+
+ border-bottom:1px solid #eee;
+
+}
+
+
+
+.checkoutItem img {
+
+ width:70px;
+
+ height:70px;
+
+ object-fit:cover;
+
+ border-radius:12px;
+
+}
+
+
+
+.checkoutItem div {
+
+ flex:1;
+
+}
+
+
+
+.checkoutItem h4 {
+
+ font-size:15px;
+
+ margin:0;
+
+}
+
+
+
+
+
+
+.summaryRow {
+
+ display:flex;
+
+ justify-content:space-between;
+
+ margin:18px 0;
+
+ color:#555;
+
+}
+
+
+
+
+.discount strong {
+
+ color:green;
+
+}
+
+
+
+.totalRow {
+
+ display:flex;
+
+ justify-content:space-between;
+
+ align-items:center;
+
+ margin-top:20px;
+
+}
+
+
+
+.totalRow h2 {
+
+ font-size:28px;
+
+}
+
+
+
+
+
+
+.deliveryDate,
+.secure {
+
+
+ background:#f5f5f5;
+
+ padding:18px;
+
+ border-radius:12px;
+
+ margin-top:20px;
+
+}
+
+
+
+.deliveryDate strong {
+
+ display:block;
+
+ margin-top:10px;
+
+}
+
+
+
+
+
+
+
+.payButton {
+
+
+ width:100%;
+
+ background:#000;
+
+ color:white;
+
+ border:none;
+
+ padding:16px;
+
+ border-radius:12px;
+
+ font-size:18px;
+
+ margin-top:25px;
+
+ cursor:pointer;
+
+}
+
+
+
+.payButton:hover {
+
+ opacity:.85;
+
+}
+
+
+
+
+
+
+
+/* EMPTY */
+
+
+.emptyCheckout {
+
+ height:80vh;
+
+ display:flex;
+
+ justify-content:center;
+
+ align-items:center;
+
+ flex-direction:column;
+
+}
+
+
+
+
+
+
+
+
+/* TABLET */
+
+
+@media(max-width:1000px){
+
+
+.checkout {
+
+ padding:100px 20px 30px;
+
+}
+
+
+
+.checkoutGrid {
+
+ grid-template-columns:1fr;
+
+}
+
+
+
+.rightSide {
+
+ position:static;
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+/* MOBILE */
+
+
+@media(max-width:600px){
+
+
+.checkoutHeader h1 {
+
+ font-size:26px;
+
+}
+
+
+
+.backBtn {
+
+ left:1px;
+
+ padding:5px 2px;
+
+}
+
+
+
+.coupon {
+
+ flex-direction:column;
+
+}
+
+
+
+.coupon button {
+
+ height:45px;
+
+}
+
+
+}

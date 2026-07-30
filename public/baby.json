@@ -1,0 +1,404 @@
+{
+    "baby":[
+  {
+    "id": 1,
+    "name": "Newborn Baby Diapers Size 1",
+    "price": 6500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/5825814/1.jpg?8067",
+    "description": "Soft, absorbent newborn diapers with leak protection for delicate skin."
+  },
+  {
+    "id": 2,
+    "name": "Baby Wet Wipes 80pcs",
+    "price": 2500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/53/7333914/2.jpg?3243",
+    "description": "Gentle alcohol-free baby wipes enriched with aloe vera and vitamin E."
+  },
+  {
+    "id": 3,
+    "name": "Baby Feeding Bottle ",
+    "price": 4500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/7237101/1.jpg?6670",
+    "description": "BPA-free feeding bottle with anti-colic silicone nipple."
+  },
+  {
+    "id": 4,
+    "name": "Baby Bottle Sterilizer",
+    "price": 38500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/8944914/1.jpg?1662",
+    "description": "Electric steam sterilizer that eliminates harmful germs from baby bottles."
+  },
+  {
+    "id": 5,
+    "name": "Baby Clothes Set",
+    "price": 5500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/4494914/1.jpg?1763",
+    "description": "Portable multi-layer formula dispenser for convenient feeding."
+  },
+  {
+    "id": 6,
+    "name": "Baby Bib Set",
+    "price": 3500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/5627814/1.jpg?4101",
+    "description": "Soft waterproof bibs designed to keep babies clean during meals."
+  },
+  {
+    "id": 7,
+    "name": "Baby Pacifier Silicone",
+    "price": 2800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/3878904/1.jpg?0613",
+    "description": "Orthodontic silicone pacifier suitable for newborns."
+  },
+  {
+    "id": 8,
+    "name": "Baby Pacifier Clip",
+    "price": 2200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/4487743/1.jpg?8343",
+    "description": "Secure pacifier holder that keeps pacifiers clean and within reach."
+  },
+  {
+    "id": 9,
+    "name": "Baby Teething Ring",
+    "price": 3200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/6941914/1.jpg?3162",
+    "description": "Soft BPA-free teether that helps soothe sore gums."
+  },
+  {
+    "id": 10,
+    "name": "Baby Bath Tub",
+    "price": 18500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/670514/1.jpg?1948",
+    "description": "Foldable baby bathtub with non-slip support for safe bathing."
+  },
+  {
+    "id": 11,
+    "name": "Baby Bath Thermometer",
+    "price": 4500,
+    "category": "Baby Products",
+    "image": "baby-product11.jpg",
+    "description": "Floating thermometer for checking safe bath water temperature."
+  },
+  {
+    "id": 12,
+    "name": "Baby Hooded Towel",
+    "price": 6500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/4847722/1.jpg?5396",
+    "description": "Ultra-soft hooded towel made from highly absorbent cotton."
+  },
+  {
+    "id": 13,
+    "name": "Baby Grooming Kit",
+    "price": 12500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/8315914/1.jpg?5413",
+    "description": "Complete grooming kit including brush, comb, scissors, and nail clippers."
+  },
+  {
+    "id": 14,
+    "name": "Baby Nail Trimmer",
+    "price": 9500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/6762914/1.jpg?6376",
+    "description": "Electric baby nail trimmer with gentle polishing pads."
+  },
+  {
+    "id": 15,
+    "name": "Baby Hair Brush Set",
+    "price": 3800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/9998914/1.jpg?1971",
+    "description": "Soft-bristle baby brush and comb set for delicate hair."
+  },
+  {
+    "id": 16,
+    "name": "Baby Shampoo",
+    "price": 4200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/3699814/1.jpg?6089",
+    "description": "Mild tear-free baby shampoo suitable for sensitive skin."
+  },
+  {
+    "id": 17,
+    "name": "Baby Body Wash",
+    "price": 4500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/7384814/1.jpg?1323",
+    "description": "Gentle moisturizing body wash for newborns and infants."
+  },
+  {
+    "id": 18,
+    "name": "Baby Body Lotion",
+    "price": 5200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/2837914/1.jpg?4708",
+    "description": "Hydrating baby lotion that keeps delicate skin soft and smooth."
+  },
+  {
+    "id": 19,
+    "name": "Baby Powder",
+    "price": 3500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/747665/1.jpg?5851",
+    "description": "Gentle baby powder that helps absorb moisture and reduce friction."
+  },
+  {
+    "id": 20,
+    "name": "Baby Diaper Rash Cream",
+    "price": 4800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/9032914/1.jpg?4452",
+    "description": "Protective cream formulated to soothe and prevent diaper rash."
+  },
+  {
+    "id": 21,
+    "name": "Baby Changing Mat",
+    "price": 8500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/9283204/1.jpg?7450",
+    "description": "Portable waterproof changing mat with soft padded surface."
+  },
+  {
+    "id": 22,
+    "name": "Baby Diaper Bag",
+    "price": 28500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/9938663/1.jpg?9551",
+    "description": "Large-capacity diaper backpack with insulated bottle pockets."
+  },
+  {
+    "id": 23,
+    "name": "Baby Bottle Warmer",
+    "price": 26500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/0926553/1.jpg?2709",
+    "description": "Fast bottle warmer with temperature control for milk and baby food."
+  },
+  {
+    "id": 24,
+    "name": "Baby Food Maker",
+    "price": 48500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/5985104/1.jpg?6286",
+    "description": "All-in-one baby food maker that steams, blends, reheats, and defrosts homemade baby meals."
+  },
+  {
+    "id": 25,
+    "name": "Baby High Chair",
+    "price": 68500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/508776/1.jpg?7243",
+    "description": "Adjustable foldable high chair with safety harness and removable feeding tray."
+  },
+  {
+    "id": 26,
+    "name": "Baby Booster Seat",
+    "price": 28500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/3834914/1.jpg?4628",
+    "description": "Portable booster seat with secure straps for comfortable family mealtimes."
+  },
+  {
+    "id": 27,
+    "name": "Baby Silicone Feeding Set",
+    "price": 12500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/0938914/1.jpg?1513",
+    "description": "Complete silicone feeding set including bowl, plate, spoon, fork, and bib."
+  },
+  {
+    "id": 28,
+    "name": "Baby Training Cup",
+    "price": 6500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/9267914/1.jpg?9721",
+    "description": "Spill-proof training cup with easy-grip handles for toddlers."
+  },
+  {
+    "id": 29,
+    "name": "Baby Sippy Cup",
+    "price": 5800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/2189914/1.jpg?8570",
+    "description": "Leak-proof sippy cup designed for independent drinking."
+  },
+  {
+    "id": 30,
+    "name": "Baby Spoon & Fork Set",
+    "price": 3500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/9877814/1.jpg?7960",
+    "description": "Soft-tip spoon and fork set designed for baby's first self-feeding experience."
+  },
+  {
+    "id": 31,
+    "name": "Baby Snack Container",
+    "price": 4200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/4187883/1.jpg?8291",
+    "description": "Portable spill-resistant snack container with easy-access lid."
+  },
+  {
+    "id": 32,
+    "name": "Baby Bottle Drying Rack",
+    "price": 8500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/221737/1.jpg?2909",
+    "description": "Compact drying rack for bottles, nipples, pacifiers, and accessories."
+  },
+  {
+    "id": 33,
+    "name": "Baby Bottle Cleaning Brush Set",
+    "price": 3800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/2115814/1.jpg?2679",
+    "description": "Bottle cleaning kit with nipple brush and sponge for deep cleaning."
+  },
+  {
+    "id": 34,
+    "name": "Baby Carrier",
+    "price": 35500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/2766201/1.jpg?8172",
+    "description": "Ergonomic baby carrier with adjustable straps for newborns and toddlers."
+  },
+  {
+    "id": 35,
+    "name": "Baby Wrap Carrier",
+    "price": 18500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/8779231/1.jpg?3644",
+    "description": "Soft breathable wrap carrier that provides secure and comfortable baby support."
+  },
+  {
+    "id": 36,
+    "name": "Baby Stroller",
+    "price": 125000,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/4119814/1.jpg?4202",
+    "description": "Foldable lightweight stroller with reclining seat and storage basket."
+  },
+  {
+    "id": 37,
+    "name": "Baby Car Seat",
+    "price": 145000,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/4212914/1.jpg?4352",
+    "description": "Convertible baby car seat with side-impact protection and adjustable harness."
+  },
+  {
+    "id": 38,
+    "name": "Baby Storage Organizer",
+    "price": 12500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/0346252/1.jpg?6938",
+    "description": "Storage organizer with insulated bottle holders and zippered compartments."
+  },
+  {
+    "id": 39,
+    "name": "Baby Mosquito Net",
+    "price": 7500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/7173352/1.jpg?7785",
+    "description": "Fine mesh mosquito net that protects babies while sleeping."
+  },
+  {
+    "id": 40,
+    "name": "Baby Crib Mattress",
+    "price": 38500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/0256114/1.jpg?4772",
+    "description": "Breathable waterproof crib mattress designed for safe infant sleep."
+  },
+  {
+    "id": 41,
+    "name": "Baby Crib Bedding Set",
+    "price": 26500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/1147814/1.jpg?9722",
+    "description": "Soft cotton bedding set including fitted sheet, blanket, and pillowcase."
+  },
+  {
+    "id": 42,
+    "name": "Baby Sleeping Bag",
+    "price": 15500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/27/5516814/1.jpg?5019",
+    "description": "Wearable sleeping bag that keeps babies warm without loose blankets."
+  },
+  {
+    "id": 43,
+    "name": "Baby Swaddle Blanket Set",
+    "price": 9800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/3660914/1.jpg?3258",
+    "description": "Soft muslin swaddle blankets for wrapping newborns comfortably."
+  },
+  {
+    "id": 44,
+    "name": "Baby Pillow",
+    "price": 6500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/4849814/1.jpg?3689",
+    "description": "Soft breathable baby pillow designed for comfort during supervised rest."
+  },
+  {
+    "id": 45,
+    "name": "Baby Sleepsuit",
+    "price": 12800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/2243914/1.jpg?0869",
+    "description": "Cozy full-length sleepsuit with zip closure for peaceful nights."
+  },
+  {
+    "id": 46,
+    "name": "Baby Bodysuit Pack",
+    "price": 16500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/2024914/1.jpg?8944",
+    "description": "Pack of soft cotton bodysuits suitable for newborns and infants."
+  },
+  {
+    "id": 47,
+    "name": "Baby Socks Set",
+    "price": 4200,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/645527/1.jpg?3073",
+    "description": "Comfortable anti-slip baby socks available in assorted colors."
+  },
+  {
+    "id": 48,
+    "name": "Baby Boots",
+    "price": 5800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/2056814/1.jpg?4931",
+    "description": "Warm knitted baby booties with soft non-slip soles."
+  },
+  {
+    "id": 49,
+    "name": "Baby Hat",
+    "price": 4500,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/1739914/1.jpg?5074",
+    "description": "Cotton baby hat that keeps your baby's head warm and comfortable."
+  },
+  {
+    "id": 50,
+    "name": "Baby Bib & Burp Cloth Set",
+    "price": 7800,
+    "category": "Baby Products",
+    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/986244/1.jpg?1837",
+    "description": "Absorbent bibs and burp cloths made with soft cotton fabric."
+  }
+]
+}

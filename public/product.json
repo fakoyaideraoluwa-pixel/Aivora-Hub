@@ -1,0 +1,410 @@
+{
+  "products": [
+    {
+
+      "id": 1,
+      "name": "Electric Kettle",
+      "category": "Kitchen Appliance",
+      "price": 25.99,
+      "description": "Fast boiling electric kettle with auto shut-off and stainless steel body.",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb58NGbYn5YvkQPKL0WQizoH9d-9LZNjTMw5j-eNJAUD0XwotO"
+    },
+    {
+      "id": 2,
+      "name": "Blender",
+      "category": "Kitchen Appliance",
+      "price": 45.50,
+      "description": "High-speed blender perfect for smoothies, soups, and sauces.",
+      "image": "https://myscanfrost.com/product/blender.webp"
+    },
+    {
+      "id": 3,
+      "name": "Microwave Oven",
+      "category": "Electric Device",
+      "price": 120.00,
+      "description": "Compact microwave oven with multiple power levels and timer settings.",
+      "image": "https://ng.jumia.is/7KEu5dPUn-dnieSYOy3rir3qmrw=/fit-in/500x500/filters:fill(white)/product/64/6202204/1.jpg?5198"
+    },
+    {
+      "id": 4,
+      "name": "Refrigerator",
+      "category": "Electric Device",
+      "price": 499.99,
+      "description": "Energy-efficient refrigerator with spacious storage and freezer compartment.",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_YEelq9fi82zRezvD1oKvcAlk5HvGLmzLQqJsmypvw4lwS6ClUC3bx8W5BuXhFTweK0WRcfa6Qn-Ow5wdEtfUbjdHbjzwNpECJwpUhhVacI1zuzn_NEujE1UQGJAgTubgmJpNBEA&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "name": "Toaster",
+      "category": "Kitchen Appliance",
+      "price": 19.99,
+      "description": "2-slice toaster with adjustable browning control and crumb tray.",
+      "image": "https://bruhm.com/wp-content/uploads/2025/07/BTM-650B-760x760.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Washing Machine",
+      "category": "Electric Device",
+      "price": 350.00,
+      "description": "Front-load washing machine with multiple wash programs and quick wash option.",
+      "image": "https://d21d281c1yd2en.cloudfront.net/media/product_images/LG_15kg_W.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rice Cooker",
+      "category": "Kitchen Appliance",
+      "price": 30.00,
+      "description": "Automatic rice cooker with keep-warm function and non-stick inner pot.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/6799814/1.jpg?8824"
+    },
+    {
+      "id": 8,
+      "name": "Electric Fan",
+      "category": "Electric Device",
+      "price": 22.75,
+      "description": "Portable electric fan with adjustable speed and oscillation feature.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/1317404/1.jpg?5957"
+    },
+    {
+  
+      "id": 9,
+      "name": "Air Fryer",
+      "category": "Kitchen Appliance",
+      "price": 89.99,
+      "description": "Oil-less air fryer for healthy cooking with rapid air technology.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/9174814/1.jpg?0889",
+      "rating": 4.5,
+      "stock": 12,
+      "brand": "Philips"
+    },
+    {
+      "id": 10,
+      "name": "Electric Iron",
+      "category": "Electric Device",
+      "price": 18.00,
+      "description": "Non-stick electric iron with steam function.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/2346814/1.jpg?5467",
+      "rating": 4.2,
+      "stock": 25,
+      "brand": "Panasonic"
+    },
+    {
+      "id": 11,
+      "name": "Dishwasher",
+      "category": "Kitchen Appliance",
+      "price": 399.99,
+      "description": "Automatic dishwasher with multiple cleaning modes.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/8519814/1.jpg?8813",
+      "rating": 4.6,
+      "stock": 5,
+      "brand": "Bosch"
+    },
+    {
+      "id": 12,
+      "name": "Coffee Maker",
+      "category": "Kitchen Appliance",
+      "price": 55.00,
+      "description": "Automatic coffee maker with programmable timer.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/2263714/1.jpg?8238"
+    },
+    {
+      "id": 13,
+      "name": "Electric Stove",
+      "category": "Kitchen Appliance",
+      "price": 150.00,
+      "description": "Double burner electric stove with temperature control.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/0606814/1.jpg?4472"
+    },
+    {
+      "id": 14,
+      "name": "Juicer",
+      "category": "Kitchen Appliance",
+      "price": 40.00,
+      "description": "High-efficiency juicer for fruits and vegetables.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/2947814/1.jpg?6976"
+    },
+    {
+      "id": 15,
+      "name": "Food Processor",
+      "category": "Kitchen Appliance",
+      "price": 75.00,
+      "description": "Multi-functional food processor for slicing and chopping.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/3485883/1.jpg?4550"
+    },
+    {
+      "id": 16,
+      "name": "Sandwich Maker",
+      "category": "Kitchen Appliance",
+      "price": 20.00,
+      "description": "Non-stick sandwich maker with fast heating plates.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/093948/1.jpg?5710"
+    },
+    {
+      "id": 17,
+      "name": "Electric Grill",
+      "category": "Kitchen Appliance",
+      "price": 65.00,
+      "description": "Indoor electric grill with adjustable heat settings.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/207777/1.jpg?9090"
+    },
+    {
+      "id": 18,
+      "name": "Deep Freezer",
+      "category": "Electric Device",
+      "price": 600.00,
+      "description": "Large capacity freezer for long-term food storage.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/3143292/1.jpg?8465"
+    },
+    {
+      "id": 19,
+      "name": "Water Dispenser",
+      "category": "Electric Device",
+      "price": 120.00,
+      "description": "Hot and cold water dispenser with child lock.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/1120472/1.jpg?4334"
+    },
+    {
+      "id": 20,
+      "name": "Air Conditioner",
+      "category": "Electric Device",
+      "price": 450.00,
+      "description": "Energy-saving air conditioner with remote control.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/1243821/1.jpg?4414"
+    },
+    {
+      "id": 21,
+      "name": "Vacuum Cleaner",
+      "category": "Electric Device",
+      "price": 130.00,
+      "description": "Powerful vacuum cleaner with HEPA filter.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/9838814/1.jpg?1369"
+    },
+    {
+      "id": 22,
+      "name": "Electric Heater",
+      "category": "Electric Device",
+      "price": 70.00,
+      "description": "Portable electric heater with adjustable thermostat.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/2936814/1.jpg?7281"
+    },
+    {
+      "id": 23,
+      "name": "Ceiling Fan",
+      "category": "Electric Device",
+      "price": 80.00,
+      "description": "Durable ceiling fan with 3 speed levels.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/5468814/1.jpg?3506"
+    },
+    {
+      "id": 24,
+      "name": "Hair Dryer",
+      "category": "Electric Device",
+      "price": 25.00,
+      "description": "Compact hair dryer with multiple heat settings.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/6117814/1.jpg?1528"
+    },
+    {
+      "id": 25,
+      "name": "Electric Shaver",
+      "category": "Electric Device",
+      "price": 35.00,
+      "description": "Rechargeable electric shaver with precision blades.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/3350914/1.jpg?0310"
+    },
+    {
+      "id": 26,
+      "name": "Standing Mixer",
+      "category": "Kitchen Appliance",
+      "price": 110.00,
+      "description": "Heavy-duty mixer for baking and cooking.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/122499/1.jpg?6901"
+    },
+    {
+      "id": 27,
+      "name": "Slow Cooker",
+      "category": "Kitchen Appliance",
+      "price": 45.00,
+      "description": "Programmable slow cooker for easy meals.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/2697814/1.jpg?4616"
+    },
+    {
+      "id": 28,
+      "name": "Electric Tandoor",
+      "category": "Kitchen Appliance",
+      "price": 130.00,
+      "description": "Electric tandoor oven for grilling and baking.",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 29,
+      "name": "Electric Skillet",
+      "category": "Kitchen Appliance",
+      "price": 70.00,
+      "description": "Large electric skillet for frying and cooking.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/7660863/1.jpg?5567"
+    },
+    {
+      "id": 30,
+      "name": "Electric Frying Pan",
+      "category": "Kitchen Appliance",
+      "price": 55.00,
+      "description": "Non-stick electric frying pan with lid.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/7130883/1.jpg?8058"
+    },
+    {
+      "id": 31,
+      "name": "Steam Iron Generator",
+      "category": "Electric Device",
+      "price": 140.00,
+      "description": "High-pressure steam generator iron.",
+      "image": "data:image/avif;base64,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"
+    },
+    {
+      "id": 32,
+      "name": "Electric Foot Massager",
+      "category": "Electric Device",
+      "price": 110.00,
+      "description": "Foot massager with heat and vibration modes.",
+      "image": "data:image/avif;base64,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"
+    },
+    {
+      "id": 64,
+      "name": "Electric Neck Massager",
+      "category": "Electric Device",
+      "price": 85.00,
+      "description": "Portable neck massager with adjustable intensity.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/1347563/1.jpg?6908"
+    },
+    {
+      "id": 65,
+      "name": "Electric Air Purifier",
+      "category": "Electric Device",
+      "price": 200.00,
+      "description": "Air purifier with HEPA filtration system.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/7115814/1.jpg?2918"
+    },
+    {
+      "id": 66,
+      "name": "Electric Shoe Dryer",
+      "category": "Electric Device",
+      "price": 45.00,
+      "description": "Dries shoes quickly and removes odor.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/0963914/1.jpg?6925"
+    },
+    {
+      "id": 67,
+      "name": "Electric Lunch Box",
+      "category": "Kitchen Appliance",
+      "price": 30.00,
+      "description": "Portable lunch box with heating function.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/5419814/1.jpg?8396"
+    },
+    {
+      "id": 68,
+      "name": "Electric Yogurt Maker",
+      "category": "Kitchen Appliance",
+      "price": 38.00,
+      "description": "Make homemade yogurt easily.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/2353814/1.jpg?7673"
+    },
+    {
+      "id": 69,
+      "name": "Electric Ice Crusher",
+      "category": "Kitchen Appliance",
+      "price": 42.00,
+      "description": "Crushes ice quickly for drinks.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/6375962/1.jpg?6361"
+    },
+    {
+      "id": 70,
+      "name": "Electric Coffee Grinder",
+      "category": "Kitchen Appliance",
+      "price": 33.00,
+      "description": "Grinds coffee beans to desired texture.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/4842493/1.jpg?0563"
+    },
+    {
+      "id": 71,
+      "name": "Electric Knife Sharpener",
+      "category": "Kitchen Appliance",
+      "price": 29.00,
+      "description": "Sharpens kitchen knives safely and efficiently.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/0405814/1.jpg?7034"
+    },
+    {
+      "id": 72,
+      "name": "Electric Curtain Motor",
+      "category": "Electric Device",
+      "price": 175.00,
+      "description": "Automated curtain motor with remote control.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/8372014/1.jpg?7807"
+    },
+    {
+      "id": 73,
+      "name": "Electric Door Lock",
+      "category": "Electric Device",
+      "price": 220.00,
+      "description": "Smart electric door lock with keypad access.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/5899783/1.jpg?1470"
+    },
+    {
+      "id": 74,
+      "name": "Electric Car Vacuum",
+      "category": "Electric Device",
+      "price": 35.00,
+      "description": "Portable vacuum cleaner for cars.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/9066814/1.jpg?3239"
+    },
+    {
+      "id": 75,
+      "name": "Electric Power Strip",
+      "category": "Electric Device",
+      "price": 25.00,
+      "description": "Power strip with surge protection.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/5752704/1.jpg?0511"
+    },
+    {
+      "id": 76,
+      "name": "Electric Timer Socket",
+      "category": "Electric Device",
+      "price": 18.00,
+      "description": "Programmable timer socket for appliances.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/2324204/1.jpg?4348"
+    },
+    {
+      "id": 77,
+      "name": "Electric Water Pump",
+      "category": "Electric Device",
+      "price": 260.00,
+      "description": "High-performance water pump for homes.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/8613914/1.jpg?4467"
+    },
+    {
+      "id": 78,
+      "name": "Electric Bug Zapper",
+      "category": "Electric Device",
+      "price": 27.00,
+      "description": "Kills insects using electric grid.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/5081814/1.jpg?6389"
+    },
+    {
+      "id": 79,
+      "name": "Electric Paint Sprayer",
+      "category": "Electric Device",
+      "price": 95.00,
+      "description": "Sprays paint evenly for DIY projects.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/6627814/1.jpg?4599"
+    },
+    {
+      "id": 80,
+      "name": "Electric Leaf Blower",
+      "category": "Electric Device",
+      "price": 120.00,
+      "description": "Clears leaves and debris quickly.",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/6464914/1.jpg?7597"
+    }
+  
+  
+  ]
+}
+ 

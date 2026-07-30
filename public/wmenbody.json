@@ -1,0 +1,324 @@
+{
+    "wmenbodyspray":[
+  {
+    "id": 1,
+    "name": "Blossom Bloom Body Spray",
+    "price": 8500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray1.jpg",
+    "description": "A refreshing floral body spray with long-lasting freshness and delicate blossom notes."
+  },
+  {
+    "id": 2,
+    "name": "Sweet Vanilla Mist",
+    "price": 9200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray2.jpg",
+    "description": "Soft vanilla fragrance blended with creamy sweetness for everyday elegance."
+  },
+  {
+    "id": 3,
+    "name": "Rose Petal Body Spray",
+    "price": 8900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray3.jpg",
+    "description": "Classic rose fragrance with a fresh and feminine finish."
+  },
+  {
+    "id": 4,
+    "name": "Ocean Breeze Mist",
+    "price": 9600,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray4.jpg",
+    "description": "Light aquatic scent inspired by cool ocean breezes."
+  },
+  {
+    "id": 5,
+    "name": "Berry Bliss Body Spray",
+    "price": 9800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray5.jpg",
+    "description": "Sweet berry fragrance with fruity freshness."
+  },
+  {
+    "id": 6,
+    "name": "Pink Peony Body Spray",
+    "price": 10200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray6.jpg",
+    "description": "Elegant peony fragrance with floral sophistication."
+  },
+  {
+    "id": 7,
+    "name": "Fresh Cotton Mist",
+    "price": 8700,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray7.jpg",
+    "description": "Clean cotton scent for a crisp and refreshing feel."
+  },
+  {
+    "id": 8,
+    "name": "Lavender Dream Body Spray",
+    "price": 9500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray8.jpg",
+    "description": "Relaxing lavender fragrance perfect for everyday use."
+  },
+  {
+    "id": 9,
+    "name": "Fresh Jasmine Body Spray",
+    "price": 9900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray9.jpg",
+    "description": "A graceful jasmine scent with floral elegance."
+  },
+  {
+    "id": 10,
+    "name": "Coconut Paradise Mist",
+    "price": 9300,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray10.jpg",
+    "description": "Tropical coconut fragrance with creamy freshness."
+  },
+  {
+    "id": 11,
+    "name": "Cherry Blossom Body Spray",
+    "price": 10500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray11.jpg",
+    "description": "Soft cherry blossom fragrance with elegant floral notes."
+  },
+  {
+    "id": 12,
+    "name": "Citrus Glow Mist",
+    "price": 9100,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray12.jpg",
+    "description": "Refreshing citrus fragrance that energizes your day."
+  },
+  {
+    "id": 13,
+    "name": "Golden Orchid Body Spray",
+    "price": 11200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray13.jpg",
+    "description": "Luxurious orchid fragrance with warm floral elegance."
+  },
+  {
+    "id": 14,
+    "name": "Fresh Lily Mist",
+    "price": 9400,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray14.jpg",
+    "description": "Light lily fragrance that keeps you fresh all day."
+  },
+  {
+    "id": 15,
+    "name": "Sweet Peach Body Spray",
+    "price": 9800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray15.jpg",
+    "description": "Juicy peach scent with fruity sweetness."
+  },
+  {
+    "id": 16,
+    "name": "Fresh Magnolia Body Spray",
+    "price": 9900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray16.jpg",
+    "description": "Elegant magnolia fragrance with lasting freshness."
+  },
+  {
+    "id": 17,
+    "name": "Velvet Rose Mist",
+    "price": 10800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray17.jpg",
+    "description": "Romantic velvet rose fragrance with soft floral notes."
+  },
+  {
+    "id": 18,
+    "name": "Fresh Watermelon Body Spray",
+    "price": 9200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray18.jpg",
+    "description": "Refreshing watermelon fragrance perfect for warm days."
+  },
+  {
+    "id": 19,
+    "name": "Signature Bloom Body Spray",
+    "price": 11500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray19.jpg",
+    "description": "A signature floral fragrance with elegant feminine charm."
+  },
+  {
+    "id": 20,
+    "name": "Fresh Pear Mist",
+    "price": 9300,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray20.jpg",
+    "description": "Sweet pear fragrance with crisp fruity freshness."
+  },
+  {
+    "id": 21,
+    "name": "Pink Blossom Body Spray",
+    "price": 9900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray21.jpg",
+    "description": "Delicate floral fragrance with long-lasting freshness."
+  },
+  {
+    "id": 22,
+    "name": "Vanilla Orchid Mist",
+    "price": 10800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray22.jpg",
+    "description": "Creamy vanilla blended with elegant orchid notes."
+  },
+  {
+    "id": 23,
+    "name": "Fresh Apple Blossom Body Spray",
+    "price": 9400,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray23.jpg",
+    "description": "Fresh apple blossom fragrance with fruity floral notes."
+  },
+  {
+    "id": 24,
+    "name": "Elegant Garden Mist",
+    "price": 11600,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray24.jpg",
+    "description": "Inspired by blooming gardens with a luxurious floral scent."
+  },
+  {
+    "id": 25,
+    "name": "Premium Floral Collection Body Spray",
+    "price": 12800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray25.jpg",
+    "description": "A premium floral body spray offering elegant fragrance and long-lasting freshness."
+  },
+  {
+    "id": 26,
+    "name": "Pink Rose Mist",
+    "price": 9800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray26.jpg",
+    "description": "Delicate pink rose fragrance with soft floral freshness."
+  },
+  {
+    "id": 27,
+    "name": "Vanilla Bliss Body Spray",
+    "price": 11200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray27.jpg",
+    "description": "Creamy vanilla scent blended with warm sweet notes."
+  },
+  {
+    "id": 28,
+    "name": "Fresh Citrus Blossom Body Spray",
+    "price": 9500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray28.jpg",
+    "description": "Bright citrus fragrance balanced with delicate floral accents."
+  },
+  {
+    "id": 29,
+    "name": "Elegant Jasmine Mist",
+    "price": 11800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray29.jpg",
+    "description": "Sophisticated jasmine fragrance with lasting elegance."
+  },
+  {
+    "id": 30,
+    "name": "Berry Delight Body Spray",
+    "price": 9900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray30.jpg",
+    "description": "Sweet berry fragrance that leaves you feeling refreshed."
+  },
+  {
+    "id": 31,
+    "name": "Fresh Coconut Bloom Body Spray",
+    "price": 9700,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray31.jpg",
+    "description": "Tropical coconut scent with soft floral undertones."
+  },
+  {
+    "id": 32,
+    "name": "Golden Petals Body Spray",
+    "price": 12400,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray32.jpg",
+    "description": "Luxurious floral fragrance with warm golden notes."
+  },
+  {
+    "id": 33,
+    "name": "Fresh Lavender Bloom",
+    "price": 9600,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray33.jpg",
+    "description": "Relaxing lavender fragrance with refreshing floral freshness."
+  },
+  {
+    "id": 34,
+    "name": "Velvet Orchid Body Spray",
+    "price": 12600,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray34.jpg",
+    "description": "Elegant orchid fragrance with a smooth luxurious finish."
+  },
+  {
+    "id": 35,
+    "name": "Fresh Mango Mist",
+    "price": 9300,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray35.jpg",
+    "description": "Juicy mango fragrance with tropical freshness."
+  },
+  {
+    "id": 36,
+    "name": "Luxury Peony Body Spray",
+    "price": 13200,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray36.jpg",
+    "description": "Premium peony fragrance with elegant floral richness."
+  },
+  {
+    "id": 37,
+    "name": "Fresh Lily Garden Mist",
+    "price": 9800,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray37.jpg",
+    "description": "Light lily fragrance inspired by blooming gardens."
+  },
+  {
+    "id": 38,
+    "name": "Cherry Blossom Luxe",
+    "price": 12900,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray38.jpg",
+    "description": "Luxurious cherry blossom fragrance with lasting freshness."
+  },
+  {
+    "id": 39,
+    "name": "Fresh Strawberry Body Spray",
+    "price": 9400,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray39.jpg",
+    "description": "Sweet strawberry fragrance with fruity freshness."
+  },
+  {
+    "id": 40,
+    "name": "Elegant Floral Essence",
+    "price": 13500,
+    "category": "Women's Body Sprays",
+    "image": "womens-bodyspray40.jpg",
+    "description": "A refined floral fragrance crafted for everyday elegance."
+  }
+]
+}

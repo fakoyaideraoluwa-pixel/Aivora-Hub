@@ -1,0 +1,324 @@
+{
+    "womenskin":[
+  {
+    "id": 1,
+    "name": "Rose Hydrating Face Cleanser",
+    "price": 8900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare1.jpg",
+    "description": "Gentle rose-infused facial cleanser that removes dirt and makeup while keeping skin hydrated."
+  },
+  {
+    "id": 2,
+    "name": "Vitamin C Brightening Face Wash",
+    "price": 9800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare2.jpg",
+    "description": "Refreshing face wash enriched with Vitamin C for a brighter-looking complexion."
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera Facial Cleanser",
+    "price": 9200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare3.jpg",
+    "description": "Soothing aloe vera cleanser suitable for daily skincare routines."
+  },
+  {
+    "id": 4,
+    "name": "Foaming Glow Cleanser",
+    "price": 10200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare4.jpg",
+    "description": "Rich foaming cleanser that leaves skin clean, soft, and refreshed."
+  },
+  {
+    "id": 5,
+    "name": "Charcoal Detox Face Wash",
+    "price": 10800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare5.jpg",
+    "description": "Activated charcoal cleanser that deeply cleanses pores and removes impurities."
+  },
+  {
+    "id": 6,
+    "name": "Hydrating Facial Toner",
+    "price": 9600,
+    "category": "Women's Skincare",
+    "image": "womens-skincare6.jpg",
+    "description": "Alcohol-free toner that refreshes and balances the skin."
+  },
+  {
+    "id": 7,
+    "name": "Rose Water Toner",
+    "price": 9900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare7.jpg",
+    "description": "Refreshing rose water toner that leaves skin feeling soft and revitalized."
+  },
+  {
+    "id": 8,
+    "name": "Green Tea Facial Toner",
+    "price": 10400,
+    "category": "Women's Skincare",
+    "image": "womens-skincare8.jpg",
+    "description": "Green tea toner formulated to refresh and hydrate the skin."
+  },
+  {
+    "id": 9,
+    "name": "Vitamin C Face Serum",
+    "price": 18600,
+    "category": "Women's Skincare",
+    "image": "womens-skincare9.jpg",
+    "description": "Lightweight serum enriched with Vitamin C for radiant-looking skin."
+  },
+  {
+    "id": 10,
+    "name": "Hyaluronic Acid Serum",
+    "price": 19800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare10.jpg",
+    "description": "Hydrating facial serum that helps skin retain moisture."
+  },
+  {
+    "id": 11,
+    "name": "Niacinamide Face Serum",
+    "price": 20500,
+    "category": "Women's Skincare",
+    "image": "womens-skincare11.jpg",
+    "description": "Daily facial serum formulated to improve the appearance of skin texture."
+  },
+  {
+    "id": 12,
+    "name": "Hydrating Day Cream",
+    "price": 15800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare12.jpg",
+    "description": "Lightweight moisturizing cream suitable for daily use."
+  },
+  {
+    "id": 13,
+    "name": "Vitamin E Moisturizer",
+    "price": 16200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare13.jpg",
+    "description": "Daily facial moisturizer enriched with nourishing Vitamin E."
+  },
+  {
+    "id": 14,
+    "name": "Rose Glow Face Cream",
+    "price": 16800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare14.jpg",
+    "description": "Rich face cream that leaves skin soft, smooth, and radiant."
+  },
+  {
+    "id": 15,
+    "name": "Daily Hydration Gel",
+    "price": 14900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare15.jpg",
+    "description": "Cooling gel moisturizer with a lightweight, non-greasy finish."
+  },
+  {
+    "id": 16,
+    "name": "Coffee Facial Scrub",
+    "price": 11800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare16.jpg",
+    "description": "Coffee-infused facial scrub that gently exfoliates dead skin cells."
+  },
+  {
+    "id": 17,
+    "name": "Apricot Face Scrub",
+    "price": 11500,
+    "category": "Women's Skincare",
+    "image": "womens-skincare17.jpg",
+    "description": "Apricot exfoliating scrub for smooth and refreshed skin."
+  },
+  {
+    "id": 18,
+    "name": "Brightening Clay Mask",
+    "price": 12800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare18.jpg",
+    "description": "Purifying clay mask that helps refresh and brighten dull-looking skin."
+  },
+  {
+    "id": 19,
+    "name": "Hydrating Sheet Mask Set",
+    "price": 13600,
+    "category": "Women's Skincare",
+    "image": "womens-skincare19.jpg",
+    "description": "Set of moisturizing sheet masks for weekly skincare routines."
+  },
+  {
+    "id": 20,
+    "name": "Charcoal Peel-Off Mask",
+    "price": 13200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare20.jpg",
+    "description": "Peel-off facial mask formulated with activated charcoal."
+  },
+  {
+    "id": 21,
+    "name": "Refreshing Facial Mist",
+    "price": 9900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare21.jpg",
+    "description": "Instant facial mist that refreshes and hydrates the skin."
+  },
+  {
+    "id": 22,
+    "name": "Cooling Aloe Face Mist",
+    "price": 10400,
+    "category": "Women's Skincare",
+    "image": "womens-skincare22.jpg",
+    "description": "Aloe-infused facial mist that provides a cooling sensation."
+  },
+  {
+    "id": 23,
+    "name": "Daily SPF 50 Face Sunscreen",
+    "price": 17800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare23.jpg",
+    "description": "Broad-spectrum SPF 50 facial sunscreen suitable for everyday wear."
+  },
+  {
+    "id": 24,
+    "name": "Hydrating Lip Care Balm",
+    "price": 6900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare24.jpg",
+    "description": "Moisturizing lip balm that helps keep lips soft and smooth."
+  },
+  {
+    "id": 25,
+    "name": "Complete Women's Skincare Starter Kit",
+    "price": 39800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare25.jpg",
+    "description": "Complete skincare kit including cleanser, toner, serum, moisturizer, scrub, and face mask."
+  },
+  {
+    "id": 26,
+    "name": "Gentle Micellar Cleansing Water",
+    "price": 11200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare26.jpg",
+    "description": "Micellar cleansing water that gently removes makeup, dirt, and excess oil."
+  },
+  {
+    "id": 27,
+    "name": "Papaya Brightening Face Wash",
+    "price": 9800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare27.jpg",
+    "description": "Papaya-enriched face wash that leaves skin feeling fresh and radiant."
+  },
+  {
+    "id": 28,
+    "name": "Tea Tree Purifying Cleanser",
+    "price": 11800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare28.jpg",
+    "description": "Tea tree facial cleanser designed to deeply cleanse oily skin."
+  },
+  {
+    "id": 29,
+    "name": "Sensitive Skin Cream Cleanser",
+    "price": 10600,
+    "category": "Women's Skincare",
+    "image": "womens-skincare29.jpg",
+    "description": "Ultra-gentle cream cleanser suitable for delicate and sensitive skin."
+  },
+  {
+    "id": 30,
+    "name": "Hydrating Milk Cleanser",
+    "price": 12400,
+    "category": "Women's Skincare",
+    "image": "womens-skincare30.jpg",
+    "description": "Creamy milk cleanser that hydrates while removing daily impurities."
+  },
+  {
+    "id": 31,
+    "name": "Glow Boost Moisturizer",
+    "price": 16500,
+    "category": "Women's Skincare",
+    "image": "womens-skincare31.jpg",
+    "description": "Daily moisturizer formulated to keep skin soft, smooth, and radiant."
+  },
+  {
+    "id": 32,
+    "name": "Collagen Face Cream",
+    "price": 18200,
+    "category": "Women's Skincare",
+    "image": "womens-skincare32.jpg",
+    "description": "Collagen-enriched face cream that provides lasting hydration."
+  },
+  {
+    "id": 33,
+    "name": "Ceramide Repair Cream",
+    "price": 19500,
+    "category": "Women's Skincare",
+    "image": "womens-skincare33.jpg",
+    "description": "Ceramide-rich moisturizer designed to support the skin's moisture barrier."
+  },
+  {
+    "id": 34,
+    "name": "Daily Glow Face Lotion",
+    "price": 15400,
+    "category": "Women's Skincare",
+    "image": "womens-skincare34.jpg",
+    "description": "Lightweight lotion that hydrates without leaving a greasy finish."
+  },
+  {
+    "id": 35,
+    "name": "Vitamin B5 Moisturizer",
+    "price": 16900,
+    "category": "Women's Skincare",
+    "image": "womens-skincare35.jpg",
+    "description": "Daily moisturizing cream enriched with Vitamin B5."
+  },
+  {
+    "id": 36,
+    "name": "Caffeine Eye Cream",
+    "price": 17500,
+    "category": "Women's Skincare",
+    "image": "womens-skincare36.jpg",
+    "description": "Refreshing eye cream with caffeine for a revitalized appearance."
+  },
+  {
+    "id": 37,
+    "name": "Hydrating Eye Gel",
+    "price": 16800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare37.jpg",
+    "description": "Cooling eye gel that hydrates the delicate eye area."
+  },
+  {
+    "id": 38,
+    "name": "Bright Eyes Serum",
+    "price": 19800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare38.jpg",
+    "description": "Lightweight eye serum that leaves the under-eye area refreshed."
+  },
+  {
+    "id": 39,
+    "name": "Overnight Recovery Cream",
+    "price": 21400,
+    "category": "Women's Skincare",
+    "image": "womens-skincare39.jpg",
+    "description": "Rich night cream that deeply moisturizes while you sleep."
+  },
+  {
+    "id": 40,
+    "name": "Retinol Night Cream",
+    "price": 23800,
+    "category": "Women's Skincare",
+    "image": "womens-skincare40.jpg",
+    "description": "Retinol facial cream formulated for nighttime skincare routines."
+  }
+]
+}

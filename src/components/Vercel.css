@@ -1,0 +1,136 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px 60px;
+    font-size: 1em;
+    box-shadow: 0.005px;
+}
+header div:nth-of-type(1){
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 70px;
+}
+.header-col-2{
+    display: flex;
+    align-items: center;
+    padding-right: 150px;
+}
+header a{
+    text-decoration: none;
+    padding: 20px;
+    padding-top: 0;
+    color: black;
+}
+header button{
+    padding-right: 110px;
+    border: none;
+}
+main{
+    width: 85%;
+    margin: auto;
+}
+main section:nth-of-type(1) div{
+    text-align: center;
+    padding: 20px;
+    margin: 80px;
+}
+main section div:nth-of-type(1) h1{
+    font-size: 5em;
+    font-weight: bolder;
+}
+ main section div:nth-of-type(1) p{
+    font-size: 1em;
+    font-weight:light;
+}
+main section:nth-of-type(2){
+    width: 85%;
+    margin: auto;
+}
+main section:nth-of-type(2) div:nth-of-type(1) h2{
+    font-size: 3em;
+    font-weight: bold;
+}
+main section:nth-of-type(2) div:nth-of-type(1) p{
+    font-size: 1.5em;
+    font-weight:light;
+}
+main section:nth-of-type(2) div:nth-of-type(2){
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+main section:nth-of-type(2) div:nth-of-type(2) aside{
+    width: 30%;
+    margin: 1%;
+    /* padding: 20px; */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.951);
+}
+main section:nth-of-type(2) div:nth-of-type(1) aside h2{
+    font-size: 1em;
+    
+}
+main section:nth-of-type(2) div:nth-of-type(3) aside div:nth-of-type(1){
+    height: 250px;
+    border: 2px solid;
+    
+}
+main section:nth-of-type(2) aside article{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: space-between;
+}
+main section:nth-of-type(2) aside h4{
+font-weight: bold;
+font-size: 1.5em;
+}
+main section:nth-of-type(2) aside h3{
+    font-size: 1.5em;
+}
+main section:nth-of-type(2) aside p{
+    font-size: 1em;
+}
+main section:nth-of-type(2) aside button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+footer:nth-of-type(1){
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 30px 60px;
+    border: 0.05px solid rgba(0, 0, 0, 0.2);
+    
+}
+footer:nth-of-type(1) div:nth-of-type(1)div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: space-between;
+}
+footer:nth-of-type(1) div:nth-of-type(1){
+    padding-left: 50px;
+}
+.footer-col-2{
+    display: flex;
+    align-items: center;
+    padding-right: 150px;
+}
+footer a{
+     text-decoration: none;
+    padding: 20px;
+    padding-top: 0;
+    color: black;
+}
+footer:nth-of-type(2){
+    text-align: center;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 25px;
+}

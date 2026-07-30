@@ -1,0 +1,324 @@
+{
+    "menhairkits":[
+  {
+    "id": 1,
+    "name": "Classic Hair Care Starter Kit",
+    "price": 18500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit1.jpg",
+    "description": "Complete starter kit with shampoo, conditioner, and styling comb."
+  },
+  {
+    "id": 2,
+    "name": "Daily Hair Grooming Kit",
+    "price": 21500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit2.jpg",
+    "description": "Everyday grooming essentials for maintaining healthy hair."
+  },
+  {
+    "id": 3,
+    "name": "Hair Growth Essentials Kit",
+    "price": 34500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit3.jpg",
+    "description": "Hair care kit containing shampoo, conditioner, serum, and scalp oil."
+  },
+  {
+    "id": 4,
+    "name": "Anti-Dandruff Hair Kit",
+    "price": 26500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit4.jpg",
+    "description": "Specially formulated products to help reduce dandruff and refresh the scalp."
+  },
+  {
+    "id": 5,
+    "name": "Moisturizing Hair Care Kit",
+    "price": 24800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit5.jpg",
+    "description": "Hydrating hair products designed for dry and damaged hair."
+  },
+  {
+    "id": 6,
+    "name": "Curly Hair Care Kit",
+    "price": 29500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit6.jpg",
+    "description": "Enhances and defines natural curls while reducing frizz."
+  },
+  {
+    "id": 7,
+    "name": "Wave Maintenance Kit",
+    "price": 28500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit7.jpg",
+    "description": "Complete wave care kit with pomade, brush, shampoo, and durag."
+  },
+  {
+    "id": 8,
+    "name": "Loc Maintenance Kit",
+    "price": 32500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit8.jpg",
+    "description": "Essential products for maintaining healthy locs."
+  },
+  {
+    "id": 9,
+    "name": "Braids Care Kit",
+    "price": 27800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit9.jpg",
+    "description": "Keeps braided hairstyles moisturized and neat."
+  },
+  {
+    "id": 10,
+    "name": "Cornrow Maintenance Kit",
+    "price": 26500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit10.jpg",
+    "description": "Hair care essentials for maintaining cornrows."
+  },
+  {
+    "id": 11,
+    "name": "Fade Haircut Care Kit",
+    "price": 19800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit11.jpg",
+    "description": "Products for keeping fade haircuts fresh and healthy."
+  },
+  {
+    "id": 12,
+    "name": "Buzz Cut Care Kit",
+    "price": 17800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit12.jpg",
+    "description": "Simple grooming kit for maintaining buzz cuts."
+  },
+  {
+    "id": 13,
+    "name": "Premium Barber Kit",
+    "price": 56500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit13.jpg",
+    "description": "Professional barber grooming kit with premium accessories."
+  },
+  {
+    "id": 14,
+    "name": "Travel Hair Care Kit",
+    "price": 16800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit14.jpg",
+    "description": "Compact travel-sized hair care essentials."
+  },
+  {
+    "id": 15,
+    "name": "Scalp Treatment Kit",
+    "price": 29500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit15.jpg",
+    "description": "Designed to nourish and soothe the scalp."
+  },
+  {
+    "id": 16,
+    "name": "Hair Repair Kit",
+    "price": 31500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit16.jpg",
+    "description": "Repairs dry and damaged hair using nourishing treatments."
+  },
+  {
+    "id": 17,
+    "name": "Hair Thickening Kit",
+    "price": 36500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit17.jpg",
+    "description": "Products formulated to create fuller-looking hair."
+  },
+  {
+    "id": 18,
+    "name": "Hair Volume Kit",
+    "price": 33800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit18.jpg",
+    "description": "Boosts hair volume while maintaining softness."
+  },
+  {
+    "id": 19,
+    "name": "Hair Strengthening Kit",
+    "price": 34800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit19.jpg",
+    "description": "Strengthens weak hair and reduces breakage."
+  },
+  {
+    "id": 20,
+    "name": "Natural Hair Care Kit",
+    "price": 29500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit20.jpg",
+    "description": "Natural ingredient-based products for healthy hair maintenance."
+  },
+  {
+    "id": 21,
+    "name": "Hair Styling Kit",
+    "price": 24800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit21.jpg",
+    "description": "Includes styling wax, comb, brush, and finishing spray."
+  },
+  {
+    "id": 22,
+    "name": "Professional Styling Kit",
+    "price": 39800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit22.jpg",
+    "description": "Advanced styling products for salon-quality results."
+  },
+  {
+    "id": 23,
+    "name": "Hair Hydration Kit",
+    "price": 28600,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit23.jpg",
+    "description": "Moisturizing products that restore softness and shine."
+  },
+  {
+    "id": 24,
+    "name": "Hair Nourishing Kit",
+    "price": 30400,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit24.jpg",
+    "description": "Vitamin-enriched hair products for everyday nourishment."
+  },
+  {
+    "id": 25,
+    "name": "Complete Hair Care Bundle",
+    "price": 48500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit25.jpg",
+    "description": "All-in-one hair care bundle with cleansing, treatment, and styling essentials."
+  },
+  {
+    "id": 26,
+    "name": "Hair Restoration Kit",
+    "price": 35500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit26.jpg",
+    "description": "Complete restoration kit with shampoo, serum, scalp oil, and conditioner."
+  },
+  {
+    "id": 27,
+    "name": "Daily Hair Maintenance Kit",
+    "price": 22500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit27.jpg",
+    "description": "Daily essentials for keeping hair clean, healthy, and manageable."
+  },
+  {
+    "id": 28,
+    "name": "Hair Moisture Therapy Kit",
+    "price": 31500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit28.jpg",
+    "description": "Intensive moisture treatment for dry and brittle hair."
+  },
+  {
+    "id": 29,
+    "name": "Scalp Detox Kit",
+    "price": 28500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit29.jpg",
+    "description": "Removes buildup while nourishing the scalp."
+  },
+  {
+    "id": 30,
+    "name": "Healthy Hair Essentials Kit",
+    "price": 24500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit30.jpg",
+    "description": "Essential products for maintaining healthy hair."
+  },
+  {
+    "id": 31,
+    "name": "Hair Regrowth Care Kit",
+    "price": 39500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit31.jpg",
+    "description": "Advanced hair care kit designed to support healthier-looking hair."
+  },
+  {
+    "id": 32,
+    "name": "Luxury Hair Spa Kit",
+    "price": 46500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit32.jpg",
+    "description": "Premium spa-quality hair treatment set."
+  },
+  {
+    "id": 33,
+    "name": "Protein Hair Treatment Kit",
+    "price": 33500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit33.jpg",
+    "description": "Protein-enriched products that strengthen hair strands."
+  },
+  {
+    "id": 34,
+    "name": "Hair Shine Kit",
+    "price": 27800,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit34.jpg",
+    "description": "Enhances natural shine while reducing frizz."
+  },
+  {
+    "id": 35,
+    "name": "Hair Texture Kit",
+    "price": 29500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit35.jpg",
+    "description": "Products formulated to define and enhance hair texture."
+  },
+  {
+    "id": 36,
+    "name": "Premium Wave Kit",
+    "price": 38500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit36.jpg",
+    "description": "Complete wave care set with brush, pomade, shampoo, and durag."
+  },
+  {
+    "id": 37,
+    "name": "Professional Loc Care Kit",
+    "price": 42500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit37.jpg",
+    "description": "Everything needed to maintain healthy locs."
+  },
+  {
+    "id": 38,
+    "name": "Premium Braid Care Kit",
+    "price": 34500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit38.jpg",
+    "description": "Complete maintenance kit for braided hairstyles."
+  },
+  {
+    "id": 39,
+    "name": "Hair Protection Kit",
+    "price": 29500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit39.jpg",
+    "description": "Protects hair from dryness, breakage, and environmental damage."
+  },
+  {
+    "id": 40,
+    "name": "Deep Conditioning Kit",
+    "price": 32500,
+    "category": "Men's Hair Kits",
+    "image": "mens-hairkit40.jpg",
+    "description": "Deep-conditioning products for healthier and softer hair."
+  }
+]
+}

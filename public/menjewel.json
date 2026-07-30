@@ -1,0 +1,324 @@
+{
+    "menjewels":[
+  {
+    "id": 1,
+    "name": "Classic Leather Belt",
+    "price": 18500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories1.jpg",
+    "description": "Genuine leather belt with a polished stainless steel buckle."
+  },
+  {
+    "id": 2,
+    "name": "Reversible Leather Belt",
+    "price": 22500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories2.jpg",
+    "description": "Two-in-one reversible leather belt for versatile styling."
+  },
+  {
+    "id": 3,
+    "name": "Automatic Buckle Belt",
+    "price": 24500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories3.jpg",
+    "description": "Premium leather belt featuring an adjustable automatic buckle."
+  },
+  {
+    "id": 4,
+    "name": "Titanium Ring",
+    "price": 16500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories4.jpg",
+    "description": "Scratch-resistant titanium ring with a modern matte finish."
+  },
+  {
+    "id": 5,
+    "name": "Stainless Steel Ring",
+    "price": 9500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories5.jpg",
+    "description": "Durable stainless steel ring for everyday wear."
+  },
+  {
+    "id": 6,
+    "name": "Black Ceramic Ring",
+    "price": 13800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories6.jpg",
+    "description": "Elegant black ceramic ring with a polished finish."
+  },
+  {
+    "id": 7,
+    "name": "Silver Chain Necklace",
+    "price": 28500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories7.jpg",
+    "description": "Sterling silver chain necklace suitable for everyday wear."
+  },
+  {
+    "id": 8,
+    "name": "Gold-Plated Chain",
+    "price": 32500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories8.jpg",
+    "description": "Stylish gold-plated chain with a durable finish."
+  },
+  {
+    "id": 9,
+    "name": "Cuban Link Chain",
+    "price": 36500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories9.jpg",
+    "description": "Bold Cuban link chain with a polished appearance."
+  },
+  {
+    "id": 10,
+    "name": "Rope Chain Necklace",
+    "price": 29500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories10.jpg",
+    "description": "Classic rope chain crafted with a sleek twisted design."
+  },
+  {
+    "id": 11,
+    "name": "Leather Bracelet",
+    "price": 8500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories11.jpg",
+    "description": "Braided leather bracelet with magnetic clasp."
+  },
+  {
+    "id": 12,
+    "name": "Beaded Bracelet",
+    "price": 7800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories12.jpg",
+    "description": "Natural stone beaded bracelet with stretch fit."
+  },
+  {
+    "id": 13,
+    "name": "Stainless Steel Bracelet",
+    "price": 14800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories13.jpg",
+    "description": "Polished stainless steel bracelet with secure clasp."
+  },
+  {
+    "id": 14,
+    "name": "Cuff Bracelet",
+    "price": 12500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories14.jpg",
+    "description": "Minimalist open cuff bracelet with brushed finish."
+  },
+  {
+    "id": 15,
+    "name": "Dog Tag Necklace",
+    "price": 14200,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories15.jpg",
+    "description": "Classic dog tag pendant on a stainless steel chain."
+  },
+  {
+    "id": 16,
+    "name": "Cross Pendant Necklace",
+    "price": 17500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories16.jpg",
+    "description": "Elegant cross pendant with matching chain."
+  },
+  {
+    "id": 17,
+    "name": "Pendant Necklace Set",
+    "price": 21500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories17.jpg",
+    "description": "Modern pendant necklace set for casual and formal outfits."
+  },
+  {
+    "id": 18,
+    "name": "Square Cufflinks",
+    "price": 16800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories18.jpg",
+    "description": "Classic square cufflinks with polished metal finish."
+  },
+  {
+    "id": 19,
+    "name": "Luxury Cufflinks",
+    "price": 29500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories19.jpg",
+    "description": "Premium cufflinks designed for formal occasions."
+  },
+  {
+    "id": 20,
+    "name": "Tie Clip",
+    "price": 8200,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories20.jpg",
+    "description": "Slim stainless steel tie clip for a polished appearance."
+  },
+  {
+    "id": 21,
+    "name": "Pocket Square Set",
+    "price": 9800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories21.jpg",
+    "description": "Elegant pocket square set for suits and blazers."
+  },
+  {
+    "id": 22,
+    "name": "Silk Tie",
+    "price": 14500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories22.jpg",
+    "description": "Premium silk tie with a timeless design."
+  },
+  {
+    "id": 23,
+    "name": "Bow Tie Set",
+    "price": 12500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories23.jpg",
+    "description": "Adjustable bow tie set for weddings and formal events."
+  },
+  {
+    "id": 24,
+    "name": "Suspenders",
+    "price": 11800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories24.jpg",
+    "description": "Adjustable suspenders with durable metal clips."
+  },
+  {
+    "id": 25,
+    "name": "Leather Wallet",
+    "price": 24500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories25.jpg",
+    "description": "Genuine leather wallet featuring multiple card slots and a cash compartment."
+  },
+  {
+    "id": 26,
+    "name": "RFID Leather Wallet",
+    "price": 28500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories26.jpg",
+    "description": "Premium leather wallet with RFID-blocking technology."
+  },
+  {
+    "id": 27,
+    "name": "Minimalist Card Holder",
+    "price": 14500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories27.jpg",
+    "description": "Slim card holder designed for cashless everyday carry."
+  },
+  {
+    "id": 28,
+    "name": "Money Clip Wallet",
+    "price": 16500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories28.jpg",
+    "description": "Compact wallet with integrated stainless steel money clip."
+  },
+  {
+    "id": 29,
+    "name": "Leather Key Holder",
+    "price": 9200,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories29.jpg",
+    "description": "Elegant leather key holder with secure snap closure."
+  },
+  {
+    "id": 30,
+    "name": "Luxury Keychain",
+    "price": 7800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories30.jpg",
+    "description": "Premium metal keychain with polished finish."
+  },
+  {
+    "id": 31,
+    "name": "Titanium Bracelet",
+    "price": 19800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories31.jpg",
+    "description": "Lightweight titanium bracelet with scratch-resistant finish."
+  },
+  {
+    "id": 32,
+    "name": "Magnetic Therapy Bracelet",
+    "price": 24500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories32.jpg",
+    "description": "Stylish stainless steel bracelet with magnetic inserts."
+  },
+  {
+    "id": 33,
+    "name": "Anchor Bracelet",
+    "price": 9800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories33.jpg",
+    "description": "Nautical-inspired rope bracelet with anchor clasp."
+  },
+  {
+    "id": 34,
+    "name": "Tiger Eye Bead Bracelet",
+    "price": 8900,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories34.jpg",
+    "description": "Natural tiger eye stone bracelet with stretch cord."
+  },
+  {
+    "id": 35,
+    "name": "Lava Stone Bracelet",
+    "price": 8200,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories35.jpg",
+    "description": "Matte lava stone bracelet for casual everyday wear."
+  },
+  {
+    "id": 36,
+    "name": "Signet Ring",
+    "price": 18500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories36.jpg",
+    "description": "Classic signet ring with polished finish."
+  },
+  {
+    "id": 37,
+    "name": "Black Tungsten Ring",
+    "price": 22500,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories37.jpg",
+    "description": "Heavy-duty tungsten ring with black brushed finish."
+  },
+  {
+    "id": 38,
+    "name": "Carbon Fiber Ring",
+    "price": 19800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories38.jpg",
+    "description": "Modern carbon fiber ring with lightweight construction."
+  },
+  {
+    "id": 39,
+    "name": "Spinner Ring",
+    "price": 15200,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories39.jpg",
+    "description": "Rotating spinner ring with smooth spinning center band."
+  },
+  {
+    "id": 40,
+    "name": "Braided Leather Necklace",
+    "price": 11800,
+    "category": "Men's Jewelry & Accessories",
+    "image": "mens-accessories40.jpg",
+    "description": "Braided leather necklace with stainless steel clasp."
+  }
+]
+}
